@@ -1,1 +1,465 @@
-{"last_run": null, "jobs": {}}
+{
+ "last_run": "2026-10-16T17:46:25",
+ "jobs": {
+  "b12b2fe16f624db4": {
+   "key": "estagio em rh|petdetodoscampinagrande",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em RH",
+   "company": "Petdetodoscampinagrande",
+   "url": "https://br.indeed.com/viewjob?jk=1258db20cf56b209",
+   "source": "indeed",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "d14e098fc7485bdc": {
+   "key": "assistente administrativo (gestao de sinistro) / campina grande-pb|jb protecao veicular",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo (Gestão de Sinistro) / Campina Grande-PB",
+   "company": "JB Proteção Veicular",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-gest%C3%A3o-de-sinistro-campina-grande-pb-at-jb-prote%C3%A7%C3%A3o-veicular-4472225504",
+   "source": "linkedin",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "5220608a14ff7747": {
+   "key": "estagio em rh|amorsaudecampingrande",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em RH",
+   "company": "Amorsaudecampingrande",
+   "url": "https://br.indeed.com/viewjob?jk=7431e6b9181a3d87",
+   "source": "indeed",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "f7350aa64e8cd9f7": {
+   "key": "assistente administrativo|unifacisa centro universitario",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo",
+   "company": "Unifacisa Centro Universitário",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-at-unifacisa-centro-universit%C3%A1rio-4471211895",
+   "source": "linkedin",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "17a94ec636ad4e6a": {
+   "key": "estagio em tecnologia da informacao (t.i) mcti|agua ceu azul",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em Tecnologia da Informação (T.I) MCTI",
+   "company": "Água Céu Azul",
+   "url": "https://br.indeed.com/viewjob?jk=b9229921a50c4e3f",
+   "source": "indeed",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "af9ce2a3ca039d3d": {
+   "key": "estagio em tecnologia da informacao (t.i)|recruta easy",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em Tecnologia da Informação (T.I)",
+   "company": "Recruta Easy",
+   "url": "https://br.indeed.com/viewjob?jk=f2fa68a1fd028116",
+   "source": "indeed",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "3f8e3ec2d1b5181c": {
+   "key": "auxiliar administrativo de departamento pessoal|stefanini group",
+   "aliases": [
+    "auxiliar administrativo de departamento pessoal|stefanini brasil"
+   ],
+   "ext_keys": [
+    "ext:gupy:12707666"
+   ],
+   "title": "AUXILIAR ADMINISTRATIVO DE DEPARTAMENTO PESSOAL",
+   "company": "Stefanini Group",
+   "url": "https://stefanini.gupy.io/job/eyJqb2JJZCI6MTI3MDc2NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "b9ce38dad8620233": {
+   "key": "assistente administrativo - opme|hospital help",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo - OPME",
+   "company": "Hospital HELP",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-opme-at-hospital-help-4476464426",
+   "source": "linkedin",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "bd6494d64ccd0406": {
+   "key": "assistente administrativo - apoio academico|hospital help",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo - Apoio Acadêmico",
+   "company": "Hospital HELP",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-apoio-acad%C3%AAmico-at-hospital-help-4476686453",
+   "source": "linkedin",
+   "score": 100,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "7054cfd7c0981ea5": {
+   "key": "jovem aprendiz administrativo|guaraves",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Jovem Aprendiz Administrativo",
+   "company": "GUARAVES",
+   "url": "https://br.indeed.com/viewjob?jk=318da78203c15d86",
+   "source": "indeed",
+   "score": 98,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "cafef5c0a7a80945": {
+   "key": "jovem aprendiz (administrativo) campina grande pb|redepharma",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12739697"
+   ],
+   "title": "JOVEM APRENDIZ  (ADMINISTRATIVO) CAMPINA GRANDE PB",
+   "company": "Redepharma",
+   "url": "https://redepharma.gupy.io/job/eyJqb2JJZCI6MTI3Mzk2OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 98,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "940a1b34731d102b": {
+   "key": "estagiario (a) de dados | campina grande - pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12666908"
+   ],
+   "title": "ESTAGIÁRIO (A) DE DADOS | Campina Grande - PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://br.indeed.com/viewjob?jk=9be961326d44fb75",
+   "source": "indeed",
+   "score": 96,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "9f9f1922089cb793": {
+   "key": "programa de estagio accenture genew 2027.1|accenture",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Programa de Estágio Accenture Genew 2027.1",
+   "company": "Accenture",
+   "url": "https://br.indeed.com/viewjob?jk=19b97ace10cb0f83",
+   "source": "indeed",
+   "score": 96,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "2ba61117acc55948": {
+   "key": "estagiario comercial|grupo parvi",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário Comercial",
+   "company": "Grupo Parvi",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-comercial-at-grupo-parvi-4479210314",
+   "source": "linkedin",
+   "score": 94,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "3415f616488b23dc": {
+   "key": "jovem aprendiz|uninassau",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Jovem Aprendiz",
+   "company": "UNINASSAU",
+   "url": "https://br.linkedin.com/jobs/view/jovem-aprendiz-at-uninassau-4470515432",
+   "source": "linkedin",
+   "score": 93,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "76f50eea727be68b": {
+   "key": "assistente administrativo|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo",
+   "company": "Jobbol",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-at-jobbol-4469889859",
+   "source": "linkedin",
+   "score": 92,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "cd86f0cf61d33827": {
+   "key": "auxiliar administrativo|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Auxiliar Administrativo",
+   "company": "Jobbol",
+   "url": "https://br.linkedin.com/jobs/view/auxiliar-administrativo-at-jobbol-4476114723",
+   "source": "linkedin",
+   "score": 89,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "5ed4b8ba141e62c4": {
+   "key": "jovem aprendiz - necxt|necxt",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12666828"
+   ],
+   "title": "Jovem Aprendiz - Necxt",
+   "company": "Necxt",
+   "url": "https://necxt.gupy.io/job/eyJqb2JJZCI6MTI2NjY4MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 87,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "83f3856b12a560d3": {
+   "key": "jovem aprendiz - sem experiencia (redepharma)|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "JOVEM APRENDIZ - Sem experiência (Redepharma)",
+   "company": "Jobbol",
+   "url": "https://br.indeed.com/viewjob?jk=8d91988cb8ad4898",
+   "source": "indeed",
+   "score": 84,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "737d0575b25d34b1": {
+   "key": "jovem aprendiz|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Jovem Aprendiz",
+   "company": "Jobbol",
+   "url": "https://br.linkedin.com/jobs/view/jovem-aprendiz-at-jobbol-4472005918",
+   "source": "linkedin",
+   "score": 84,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "00e3246297a17ecd": {
+   "key": "estagiario|tamara rocha | finance as a service",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário",
+   "company": "Tamara Rocha | Finance as a Service",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-4477331096",
+   "source": "linkedin",
+   "score": 83,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "076dd76c2abbb182": {
+   "key": "assistente financeiro|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Financeiro",
+   "company": "Jobbol",
+   "url": "https://br.linkedin.com/jobs/view/assistente-financeiro-at-jobbol-4469898580",
+   "source": "linkedin",
+   "score": 81,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "8ecdbbcff6694094": {
+   "key": "estagiario|gotemburgo - volvo caminhoes, onibus e ce",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário",
+   "company": "Gotemburgo - Volvo Caminhões, Ônibus e CE",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-at-gotemburgo-volvo-caminh%C3%B5es-%C3%B4nibus-e-ce-4473449228",
+   "source": "linkedin",
+   "score": 81,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "0537a83db641cf60": {
+   "key": "atendente de telemarketing - vagas meio periodo e vagas noturnas - campina grande/pb - aec|aec centro de contatos",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Atendente de Telemarketing - Vagas Meio Período e Vagas Noturnas - Campina Grande/PB - AeC",
+   "company": "AeC Centro de Contatos",
+   "url": "https://br.indeed.com/viewjob?jk=d191a6bf5136cf6a",
+   "source": "indeed",
+   "score": 81,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "3569d1cc23277d66": {
+   "key": "assistente compras campina grande pb|redepharma",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12616945"
+   ],
+   "title": "ASSISTENTE COMPRAS CAMPINA GRANDE PB",
+   "company": "Redepharma",
+   "url": "https://redepharma.gupy.io/job/eyJqb2JJZCI6MTI2MTY5NDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 80,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "caf254b8fc5f1344": {
+   "key": "assistente comercial | campina grande|gdsul - construcao inteligente",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12682403"
+   ],
+   "title": "Assistente Comercial  | Campina Grande",
+   "company": "GDSUL - Construção Inteligente",
+   "url": "https://gdsul.gupy.io/job/eyJqb2JJZCI6MTI2ODI0MDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 80,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "0be827a10492f19f": {
+   "key": "estagiario|empresa confidencial",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário",
+   "company": "Empresa Confidencial",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-at-empresa-confidencial-4476025514",
+   "source": "linkedin",
+   "score": 78,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "42ac287a848fd987": {
+   "key": "assistente comercial (sdr) | campina grande - pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12633093"
+   ],
+   "title": "Assistente comercial (SDR) | Campina Grande - PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI2MzMwOTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 77,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "7558b87854a5f017": {
+   "key": "assistente comercial - temporario - campina grande pb|comunicare aparelhos auditivos",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Comercial - Temporário - Campina Grande PB",
+   "company": "COMUNICARE APARELHOS AUDITIVOS",
+   "url": "https://br.indeed.com/viewjob?jk=578c1d903cb6bf78",
+   "source": "indeed",
+   "score": 74,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "b8095237dc9936e5": {
+   "key": "consultora de vendas internas|face doctor - campina grande/pb",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Consultora de vendas internas",
+   "company": "FACE DOCTOR - CAMPINA GRANDE/PB",
+   "url": "https://br.linkedin.com/jobs/view/consultora-de-vendas-internas-at-face-doctor-campina-grande-pb-4479229969",
+   "source": "linkedin",
+   "score": 74,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "89be3c212254a606": {
+   "key": "analista de planejamento | campina grande - pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12597436"
+   ],
+   "title": "Analista de planejamento | Campina Grande - PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI1OTc0MzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 61,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "abdb6877fdf5c8b2": {
+   "key": "analista de operacoes | campina grande - pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12601506"
+   ],
+   "title": "Analista de Operações | Campina Grande - PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI2MDE1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 60,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "daf9049a4188275c": {
+   "key": "recepcionista - campina grande/pb|orthodontic brasil",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12706545"
+   ],
+   "title": "Recepcionista - Campina Grande/PB",
+   "company": "Orthodontic Brasil",
+   "url": "https://br.indeed.com/viewjob?jk=cf88561aedb8b41b",
+   "source": "indeed",
+   "score": 59,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "7e049e3ed0aa0a65": {
+   "key": "analista de inteligencia de mercado | campina grande - pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12514691"
+   ],
+   "title": "Analista de inteligência de mercado | Campina Grande - PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI1MTQ2OTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 58,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "25dbf94c20767f99": {
+   "key": "operador(a) de caixa - administrativo | campina grande|gdsul - construcao inteligente",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12590968"
+   ],
+   "title": "Operador(a) de Caixa - Administrativo  |  Campina Grande",
+   "company": "GDSUL - Construção Inteligente",
+   "url": "https://gdsul.gupy.io/job/eyJqb2JJZCI6MTI1OTA5NjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 54,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  },
+  "b51468d27338ceb3": {
+   "key": "tecnico de manutencao - campina grande/pb|confidencial",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12500081"
+   ],
+   "title": "Técnico de Manutenção - Campina Grande/PB",
+   "company": "Confidencial",
+   "url": "https://confidentialoopportunities.gupy.io/job/eyJqb2JJZCI6MTI1MDAwODEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 47,
+   "first_seen": "2026-10-16",
+   "last_seen": "2026-10-16"
+  }
+ }
+}

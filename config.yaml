@@ -1,83 +1,439 @@
 # ============================================================
-#  Radar de Vagas Laplace — configuração
-#
-#  Os campos marcados como OBRIGATÓRIO vêm vazios de propósito: o monitor não
-#  assume estado, cidade, área nem nível. Enquanto estiverem vazios, `run` para e
-#  lista o que falta. Guia: guia/04-personalizar.md
+#  Radar de Vagas Laplace - Campina Grande (Estágio)
 # ============================================================
 
-perfil: perfil.md            # seu resumo profissional (a variável PERFIL_MD tem precedência)
+perfil: perfil.md            # resumo profissional usado na pontuação e avaliação por IA
 intervalo_dias: 5            # cadência: executa se passaram >= 5 dias da última execução
 lookback_days: 7             # janela de publicação buscada
 first_run_lookback_days: 30  # primeira execução: janela maior para popular o relatório
 
 estado:                      # memória entre rodadas (state/seen.json)
-  key_ttl_days: 30           # o par título+empresa deixa de suprimir depois disso:
-                             # posição reaberta meses depois volta a ser anunciada
+  key_ttl_days: 30           # o par título+empresa deixa de suprimir depois disso
   keep_days: 120             # tempo que o registro de uma vaga sobrevive no arquivo
 
 # ------------------------------------------------------------------
 #  ONDE você busca
 # ------------------------------------------------------------------
 regiao:
-  estados: []                # OBRIGATÓRIO (exceto remoto: somente). Siglas: [SP] ou [SP, RJ]
-  base: {cidade: "", uf: ""} # OBRIGATÓRIO (exceto alcance: estado ou remoto: somente)
-  alcance: regiao_imediata   # cidade | regiao_imediata | estado | lista
-                             #   regiao_imediata = a área de deslocamento diário do IBGE
-  cidades: []                # só para alcance: lista
-  apelidos: {}               # nomes alternativos -> cidade canônica, ex.: {Camboriú: Balneário Camboriú}
-  remoto: aceitar            # nao | aceitar | preferir | somente
-  fuso: America/Sao_Paulo
-  idioma_ia: pt-BR           # idioma do comentário da avaliação por IA
+  estados: [PB]
+  base: {cidade: 'Campina Grande', uf: 'PB'}
+  alcance: cidade            # estritamente Campina Grande
+  cidades: []
+  apelidos: {}
+  remoto: nao                # sem vagas remotas
+  fuso: America/Recife
+  idioma_ia: pt-BR
 
 # ------------------------------------------------------------------
 #  O QUE você busca
 # ------------------------------------------------------------------
 alvo:
-  nivel: ""                  # OBRIGATÓRIO: estagio | junior | pleno | senior | lideranca
-  aceita_niveis: []          # níveis vizinhos que também servem, ex.: [pleno]
+  nivel: estagio             # apenas estágio
+  aceita_niveis: []          # sem júnior
 
-# Termos enviados às fontes (LinkedIn, Indeed e vagas remotas). A Gupy varre o estado
-# inteiro e filtramos localmente. Cada termo custa tempo de rodada: acrescente um só
-# quando ele trouxer um perfil de vaga que os outros não alcançam.
-termos_busca: []             # OBRIGATÓRIO. Ex.: [analista financeiro, contador]
+termos_busca:
+  - estagio
+  - estagiario
+  - estagio ti
+  - estagio desenvolvimento
+  - estagio dados
+  - estagio administrativo
+  - estagio financeiro
+  - estagio rh
+  - estagio comercial
+  - estagio marketing
+  - estagio atendimento
+  - jovem aprendiz administrativo
+  - meio periodo
+  - meia jornada
 
-# Categorias na ordem de preferência (prioridade 1 = mais desejada).
-# `titulo`: termos que, no TÍTULO, classificam a vaga (30 pts).
-# `descricao`: precisa de >= 2 termos distintos na DESCRIÇÃO para classificar (12 pts).
-# `bonus`: soma na pontuação; negativo para categorias de reserva (ponte).
-# OBRIGATÓRIO: ao menos uma. Exemplo (descomente e adapte):
-#
-# categorias:
-#   financeiro:
-#     nome: Financeiro
-#     prioridade: 1
-#     bonus: 12
-#     titulo: ["analista financeiro", "assistente financeiro", tesouraria]
-#     descricao: ["contas a pagar", "contas a receber", "fluxo de caixa", conciliação]
-categorias: {}
+categorias:
+  estagio_ti_dev:
+    nome: Estágio em TI e Desenvolvimento
+    prioridade: 1
+    bonus: 15
+    titulo:
+      - tecnologia da informacao
+      - tecnologia da informação
+      - estagio ti
+      - estagio t.i
+      - estagio em ti
+      - estagio em t.i
+      - estagio tecnologia
+      - estagio desenvolvimento
+      - estagio software
+      - estagio dev
+      - estagio programacao
+      - estagio web
+      - estagio front
+      - estagio back
+      - estagio full stack
+      - estagio sistemas
+      - desenvolvedor estagiario
+      - estagiario desenvolvedor
+      - programador estagiario
+      - trainee ti
+      - trainee desenvolvimento
+      - accenture
+      - desenvolvedor
+      - desenvolvedora
+      - programador
+      - programadora
+      - software engineer
+    descricao:
+      - desenvolvimento de software
+      - python
+      - javascript
+      - react
+      - node
+      - sql
+      - html
+      - css
+      - git
+      - programacao
+      - sistemas
+      - tecnologia da informacao
+      - ads
+      - analise e desenvolvimento de sistemas
 
-senioridade:                 # detectada no título (e em dicas da fonte)
-  junior: [júnior, junior, jr, "jr.", estágio, estagiário, estagiária, trainee, "entry level",
-           iniciante, aprendiz, "nível i", assistente]
-  pleno: [pleno, plena, pl, "pl.", "mid-level", "mid level", "nível ii"]
-  senior: [sênior, senior, sr, "sr.", especialista, specialist, lead, líder, gerente, manager,
-           coordenador, coordenadora, head, principal, staff, diretor, diretora, arquiteto,
-           arquiteta, "tech lead", supervisor, supervisora, "nível iii"]
+  estagio_dados:
+    nome: Estágio em Dados e BI
+    prioridade: 2
+    bonus: 12
+    titulo:
+      - estagio dados
+      - estagio data
+      - estagio bi
+      - estagio business intelligence
+      - estagio analytics
+      - estagio analise de dados
+      - estagio banco de dados
+      - dados
+      - data
+      - bi
+      - business intelligence
+      - power bi
+      - analytics
+    descricao:
+      - analise de dados
+      - power bi
+      - sql
+      - excel
+      - dashboards
+      - banco de dados
+      - bi
+      - business intelligence
+      - python
+      - metricas
 
-# Títulos que NUNCA interessam, mesmo que casem com uma categoria. Use para homônimos:
-# "segurança do trabalho" não é "segurança da informação".
-excluir_titulo: []
+  estagio_suporte_ti:
+    nome: Estágio em Suporte e TI
+    prioridade: 3
+    bonus: 10
+    titulo:
+      - estagio suporte
+      - estagio help desk
+      - estagio service desk
+      - estagio infraestrutura
+      - estagio redes
+      - estagio informatica
+      - suporte tecnico
+      - suporte ti
+      - estagiario ti
+      - estagiario de ti
+      - estagiario em ti
+    descricao:
+      - suporte a usuarios
+      - manutencao
+      - redes
+      - hardware
+      - atendimento a chamados
+      - helpdesk
+      - informatica
+      - windows
+      - impressoras
+      - help desk
 
-# Habilidades suas (cada acerto soma pontos, máx. +18).
-habilidades: []
+  estagio_administrativo:
+    nome: Estágio Administrativo
+    prioridade: 4
+    bonus: 8
+    titulo:
+      - estagio administrativo
+      - estagio administracao
+      - estagio escritorio
+      - estagio backoffice
+      - auxiliar administrativo
+      - assistente administrativo
+      - jovem aprendiz administrativo
+      - aprendiz administrativo
+      - estagiario administrativo
+      - estagiaria administrativa
+      - assistente de escritorio
+      - auxiliar de escritorio
+    descricao:
+      - rotinas administrativas
+      - controle de planilhas
+      - arquivo
+      - documentos
+      - pacote office
+      - excel
+      - organizacao
+      - backoffice
+      - atendimento ao publico
+      - emissao de notas
+
+  estagio_financeiro:
+    nome: Estágio Financeiro e Faturamento
+    prioridade: 5
+    bonus: 6
+    titulo:
+      - estagio financeiro
+      - estagio financas
+      - estagio faturamento
+      - estagio contas a pagar
+      - estagio contas a receber
+      - estagio cobranca
+      - auxiliar financeiro
+      - assistente financeiro
+    descricao:
+      - contas a pagar
+      - contas a receber
+      - faturamento
+      - conciliacao bancaria
+      - fluxo de caixa
+      - notas fiscais
+      - planilhas
+      - cobranca
+
+  estagio_rh:
+    nome: Estágio em Recursos Humanos (RH)
+    prioridade: 6
+    bonus: 6
+    titulo:
+      - estagio em rh
+      - estagio rh
+      - estagio recursos humanos
+      - estagio departamento pessoal
+      - estagio dp
+      - estagio r&s
+      - estagio recrutamento
+      - estagio psicologia
+      - estagiario de rh
+      - estagiaria de rh
+    descricao:
+      - recrutamento e selecao
+      - departamento pessoal
+      - triagem de curriculos
+      - admissao
+      - ponto
+      - beneficios
+      - integracao de colaboradores
+
+  estagio_comercial_atendimento:
+    nome: Estágio Comercial e Atendimento
+    prioridade: 7
+    bonus: 5
+    titulo:
+      - estagio comercial
+      - estagio vendas
+      - estagio atendimento
+      - estagio sdr
+      - estagio pre-vendas
+      - estagio customer success
+      - estagio cs
+      - estagiario comercial
+      - estagiaria comercial
+      - vendas internas
+      - consultor de vendas interno
+      - consultora de vendas interna
+    descricao:
+      - atendimento ao cliente
+      - prospeccao
+      - crm
+      - vendas internas
+      - pos-venda
+      - contato telefonico
+      - suporte ao cliente
+      - whatsapp
+
+  estagio_marketing:
+    nome: Estágio em Marketing e Comunicação
+    prioridade: 8
+    bonus: 5
+    titulo:
+      - estagio marketing
+      - estagio comunicacao
+      - estagio redes sociais
+      - estagio social media
+      - estagio design
+      - estagio publicidade
+      - estagiario de marketing
+      - estagiaria de marketing
+    descricao:
+      - redes sociais
+      - canva
+      - criacao de conteudo
+      - marketing digital
+      - campanhas
+      - comunicacao interna
+      - copywriting
+      - design
+
+  estagio_geral_escritorio:
+    nome: Estágio Geral em Escritório
+    prioridade: 9
+    bonus: 3
+    titulo:
+      - estagiario
+      - estagiaria
+      - estagio
+      - jovem aprendiz
+      - meio periodo
+      - meia jornada
+    descricao:
+      - pacote office
+      - computador
+      - excel
+      - planilhas
+      - atendimento
+      - documentos
+      - escritorio
+      - digitacao
+
+senioridade:
+  junior:
+    - junior
+    - júnior
+    - jr
+    - jr.
+    - estagio
+    - estágio
+    - estagiario
+    - estagiário
+    - estagiaria
+    - estagiária
+    - trainee
+    - entry level
+    - iniciante
+    - aprendiz
+    - jovem aprendiz
+    - nivel i
+    - nível i
+    - assistente
+    - auxiliar
+    - meio periodo
+    - meio período
+    - meia jornada
+    - 6h
+    - 6 horas
+  pleno:
+    - pleno
+    - plena
+    - pl
+    - pl.
+    - mid-level
+    - mid level
+    - nivel ii
+    - nível ii
+  senior:
+    - senior
+    - sênior
+    - sr
+    - sr.
+    - especialista
+    - specialist
+    - lead
+    - lider
+    - líder
+    - gerente
+    - manager
+    - coordenador
+    - coordenadora
+    - head
+    - principal
+    - staff
+    - diretor
+    - diretora
+    - tech lead
+    - supervisor
+    - supervisora
+    - nivel iii
+    - nível iii
+
+excluir_titulo:
+  - engenharia civil
+  - arquitetura
+  - seguranca do trabalho
+  - segurança do trabalho
+  - ssma
+  - motocicletas
+  - veicular
+  - gerente
+  - farmacia
+  - farmácia
+  - farmaceutico
+  - farmacêutico
+  - farmaceutica
+  - farmacêutica
+  - enfermagem
+  - enfermeiro
+  - enfermeira
+  - medico
+  - médico
+  - medica
+  - médica
+  - fisioterapia
+  - fisioterapeuta
+  - odontologia
+  - dentista
+  - veterinaria
+  - veterinária
+  - veterinario
+  - veterinário
+  - mecanica
+  - mecânica
+  - mecanico
+  - mecânico
+  - acougue
+  - açougue
+  - acougueiro
+  - açougueiro
+  - soldador
+  - solda
+  - motorista
+  - eletricista
+  - pedagogico
+  - pedagógico
+  - pedagogia
+  - professor
+  - professora
+  - limpeza
+  - cozinha
+  - servicos gerais
+  - serviços gerais
+
+habilidades:
+  - excel
+  - pacote office
+  - word
+  - python
+  - sql
+  - power bi
+  - atendimento
+  - organizacao
+  - comunicacao
+  - canva
+  - html
+  - css
+  - javascript
 
 fontes:
   linkedin:
     ativo: true
-    cidades_ancora: []                               # vazio = usa regiao.base.cidade; cada âncora custa tempo de rodada
-    paginas: 2                                       # 10 vagas por página
-    buscar_descricao: true                           # 1 requisição por vaga do LinkedIn no escopo (o card não traz descrição)
+    cidades_ancora: []
+    paginas: 2
+    buscar_descricao: true
     max_descricoes: 80
   indeed:
     ativo: true
@@ -88,42 +444,27 @@ fontes:
 relatorio:
   pasta: reports
   html: docs/index.html
-  top_n: 20                  # destaques no topo do relatório
-  url_publica: ""            # link "Relatório completo" nas notificações; vazio = sem link
+  top_n: 25
+  url_publica: 'https://felipecjbob.github.io/radar-de-vagas-campina-grande/'
 
 notificacoes:
   telegram:
-    ativo: auto              # auto = envia se TELEGRAM_BOT_TOKEN e TELEGRAM_CHAT_ID existirem
+    ativo: auto
     top_n: 15
   email:
-    ativo: auto              # auto = envia se SMTP_USER / SMTP_PASSWORD / EMAIL_TO existirem
+    ativo: auto
 
-# ------------------------------------------------------------------
-#  Avaliação por IA (opcional): nota de 0 a 10 e comentário por vaga.
-#
-#  `provedor: auto` usa o primeiro com chave configurada, na ordem
-#  Gemini -> Anthropic. O Gemini vem primeiro porque o nível gratuito
-#  do AI Studio cobre este volume (25 vagas a cada 5 dias) sem custo,
-#  enquanto a API da Anthropic é pré-paga.
-#
-#  Valores: auto | gemini | anthropic | nenhum
-# ------------------------------------------------------------------
 avaliacao:
   provedor: auto
-  max_vagas: 25              # avalia só as N melhores vagas novas da rodada
+  max_vagas: 25
   gemini:
-    # Alias que o Google mantém apontando para o Flash atual. Fixar uma versão
-    # ("gemini-3.6-flash") evita surpresa de comportamento, mas quebra sozinho
-    # quando aquela versão sai do ar.
     modelo: gemini-flash-latest
-    # Se o modelo principal estiver sobrecarregado (503), tenta estes, na ordem, antes de desistir.
-    modelos_reserva: [gemini-flash-lite-latest]
-    rpm: 10                  # nível gratuito do Flash; as chamadas são espaçadas
+    modelos_reserva:
+      - gemini-flash-lite-latest
+    rpm: 10
   anthropic:
     modelo: claude-opus-5
     esforco: low
 
-# Repositório do modelo de onde esta cópia veio (ex.: usuario/radar-de-vagas-laplace). O
-# `doctor` compara a sua versão com a última release e avisa quando uma fonte foi consertada.
 modelo:
-  repositorio: ""
+  repositorio: ''

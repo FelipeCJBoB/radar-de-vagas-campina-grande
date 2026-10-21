@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-16T17:46:25",
+ "last_run": "2026-10-21T12:52:42",
  "jobs": {
   "b12b2fe16f624db4": {
    "key": "estagio em rh|petdetodoscampinagrande",
@@ -111,7 +111,7 @@
    "source": "linkedin",
    "score": 100,
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16"
+   "last_seen": "2026-10-21"
   },
   "7054cfd7c0981ea5": {
    "key": "jovem aprendiz administrativo|guaraves",
@@ -261,7 +261,7 @@
    "source": "linkedin",
    "score": 83,
    "first_seen": "2026-10-16",
-   "last_seen": "2026-10-16"
+   "last_seen": "2026-10-21"
   },
   "076dd76c2abbb182": {
    "key": "assistente financeiro|jobbol",
@@ -460,6 +460,204 @@
    "score": 47,
    "first_seen": "2026-10-16",
    "last_seen": "2026-10-16"
+  },
+  "9c1e15e147c9c22e": {
+   "key": "jovem aprendiz campina grande pb|redepharma",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12748572"
+   ],
+   "title": "JOVEM APRENDIZ CAMPINA GRANDE PB",
+   "company": "redepharma",
+   "url": "https://br.indeed.com/viewjob?jk=5dabd6d62cce54db",
+   "source": "indeed",
+   "score": 100,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "233ba2b90ea92f6a": {
+   "key": "estagio em gente & gestao | foco em departamento pessoal|centro odontologico eydental ltda",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em Gente & Gestão | Foco em Departamento Pessoal",
+   "company": "CENTRO ODONTOLOGICO EYDENTAL LTDA",
+   "url": "https://br.indeed.com/viewjob?jk=f7c31b8101052185",
+   "source": "indeed",
+   "score": 100,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "356a61ed164543fc": {
+   "key": "assistente administrativo | afirmativa para pessoas com deficiencia - campina grande/pb|alpargatas s.a.",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo | Afirmativa para Pessoas com Deficiência - Campina Grande/PB",
+   "company": "Alpargatas S.A.",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-afirmativa-para-pessoas-com-defici%C3%AAncia-campina-grande-pb-at-alpargatas-s-a-4471949765",
+   "source": "linkedin",
+   "score": 100,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "47ba6a1193718ae7": {
+   "key": "estagiario(a) de recursos humanos – pessoas e cultura|administradora de cartao de desconto campina grande ltda",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário(a) de Recursos Humanos – Pessoas e Cultura",
+   "company": "Administradora de Cartão de Desconto Campina Grande LTDA",
+   "url": "https://br.indeed.com/viewjob?jk=991ac1ce829737ab",
+   "source": "indeed",
+   "score": 98,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "737282f338cf1d5a": {
+   "key": "jovem aprendiz logistica - campina grande/pb|zaaz telecom",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Jovem Aprendiz Logística - Campina Grande/PB",
+   "company": "Zaaz Telecom",
+   "url": "https://br.indeed.com/viewjob?jk=f6e0ec7902b9dbeb",
+   "source": "indeed",
+   "score": 92,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "44455d8234738922": {
+   "key": "analista de compras jr. - hunicg|unimed",
+   "aliases": [
+    "analista de compras jr. - hunicg|unimed campina grande"
+   ],
+   "ext_keys": [
+    "ext:gupy:12746984"
+   ],
+   "title": "Analista de Compras Jr. - HUniCG",
+   "company": "Unimed",
+   "url": "https://br.indeed.com/viewjob?jk=11a017e5280ea76b",
+   "source": "indeed",
+   "score": 89,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "6f3b23dea7f85960": {
+   "key": "atendente de telemarketing - vagas meio periodo e vagas noturnas - campina grande/pb - aec|aec",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC",
+   "company": "AeC",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4481263946",
+   "source": "linkedin",
+   "score": 89,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "a98d2f2e8a924521": {
+   "key": "jovem aprendiz | campina grande-pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12757194"
+   ],
+   "title": "Jovem Aprendiz | Campina Grande-PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://br.indeed.com/viewjob?jk=648030d875f8824e",
+   "source": "indeed",
+   "score": 89,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "d529c2aee1bfae40": {
+   "key": "assistente de departamento pessoal|unimed campina grande",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12755162"
+   ],
+   "title": "Assistente de Departamento Pessoal",
+   "company": "Unimed Campina Grande",
+   "url": "https://unimedcampinagrande.gupy.io/job/eyJqb2JJZCI6MTI3NTUxNjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 88,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "88c9cba6b7592e5c": {
+   "key": "estagiario|clinica medica e odontologica amor saude campina grande - pb ltda",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário",
+   "company": "CLINICA MEDICA E ODONTOLOGICA AMOR SAUDE CAMPINA GRANDE - PB LTDA",
+   "url": "https://br.indeed.com/viewjob?jk=c4538ba2bc26f9c6",
+   "source": "indeed",
+   "score": 86,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "318bb144bc2d68d3": {
+   "key": "estagiario de engenharia de processos|rack industria",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário de engenharia de processos",
+   "company": "Rack Indústria",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-engenharia-de-processos-at-rack-ind%C3%BAstria-4479418588",
+   "source": "linkedin",
+   "score": 86,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "515d0f93c1e396b2": {
+   "key": "auxiliar adm aprendiz - 0717 - 060210 - 150|magazine luiza",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "AUXILIAR ADM APRENDIZ - 0717 - 060210 - 150",
+   "company": "Magazine Luiza",
+   "url": "https://br.indeed.com/viewjob?jk=ffb2ac33c1c4c4de",
+   "source": "indeed",
+   "score": 74,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "6509ce784189ed8a": {
+   "key": "recepcionista em servico de saude - hunicg|unimed",
+   "aliases": [
+    "recepcionista em servico de saude - hunicg|unimed campina grande"
+   ],
+   "ext_keys": [
+    "ext:gupy:12747226"
+   ],
+   "title": "Recepcionista em serviço de saúde - HUniCG",
+   "company": "Unimed",
+   "url": "https://br.indeed.com/viewjob?jk=ea08f2d3c9bb99e0",
+   "source": "indeed",
+   "score": 65,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "c961cee2ad1d669e": {
+   "key": "laboratorista - campina grande - pb|alpargatas",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12094137"
+   ],
+   "title": "Laboratorista - Campina Grande - PB",
+   "company": "Alpargatas",
+   "url": "https://alpargatas.gupy.io/job/eyJqb2JJZCI6MTIwOTQxMzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 59,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
+  },
+  "ce7840e860b30112": {
+   "key": "jovem aprendiz (administrativo) campina grande pb|redepharma",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12739697"
+   ],
+   "title": "JOVEM APRENDIZ (ADMINISTRATIVO) CAMPINA GRANDE PB",
+   "company": "redepharma",
+   "url": "https://br.indeed.com/viewjob?jk=9333f0e32e74fd74",
+   "source": "indeed",
+   "score": 98,
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21"
   }
  }
 }

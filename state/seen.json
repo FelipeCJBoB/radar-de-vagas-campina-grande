@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-21T12:52:42",
+ "last_run": "2026-10-26T14:10:57",
  "jobs": {
   "b12b2fe16f624db4": {
    "key": "estagio em rh|petdetodoscampinagrande",
@@ -473,7 +473,7 @@
    "source": "indeed",
    "score": 100,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-26"
   },
   "233ba2b90ea92f6a": {
    "key": "estagio em gente & gestao | foco em departamento pessoal|centro odontologico eydental ltda",
@@ -485,7 +485,7 @@
    "source": "indeed",
    "score": 100,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-26"
   },
   "356a61ed164543fc": {
    "key": "assistente administrativo | afirmativa para pessoas com deficiencia - campina grande/pb|alpargatas s.a.",
@@ -497,7 +497,7 @@
    "source": "linkedin",
    "score": 100,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-26"
   },
   "47ba6a1193718ae7": {
    "key": "estagiario(a) de recursos humanos – pessoas e cultura|administradora de cartao de desconto campina grande ltda",
@@ -521,7 +521,7 @@
    "source": "indeed",
    "score": 92,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-26"
   },
   "44455d8234738922": {
    "key": "analista de compras jr. - hunicg|unimed",
@@ -549,7 +549,7 @@
    "source": "linkedin",
    "score": 89,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-26"
   },
   "a98d2f2e8a924521": {
    "key": "jovem aprendiz | campina grande-pb|vagas grupo digna",
@@ -601,7 +601,7 @@
    "source": "linkedin",
    "score": 86,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-26"
   },
   "515d0f93c1e396b2": {
    "key": "auxiliar adm aprendiz - 0717 - 060210 - 150|magazine luiza",
@@ -613,7 +613,7 @@
    "source": "indeed",
    "score": 74,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-26"
   },
   "6509ce784189ed8a": {
    "key": "recepcionista em servico de saude - hunicg|unimed",
@@ -643,7 +643,7 @@
    "source": "gupy",
    "score": 59,
    "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21"
+   "last_seen": "2026-10-26"
   },
   "ce7840e860b30112": {
    "key": "jovem aprendiz (administrativo) campina grande pb|redepharma",
@@ -658,6 +658,70 @@
    "score": 98,
    "first_seen": "2026-10-21",
    "last_seen": "2026-10-21"
+  },
+  "76d8b622541484f1": {
+   "key": "estagio em contabilidade|clinica medica e odontologica amor saude campina grande - pb ltda",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em Contabilidade",
+   "company": "CLINICA MEDICA E ODONTOLOGICA AMOR SAUDE CAMPINA GRANDE - PB LTDA",
+   "url": "https://br.indeed.com/viewjob?jk=ee0886f4da4a5525",
+   "source": "indeed",
+   "score": 100,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26"
+  },
+  "bfc02eb92e737f06": {
+   "key": "- banco de talentos - (jovem aprendiz)|unimed campina grande",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12775060"
+   ],
+   "title": "- Banco de Talentos - (Jovem aprendiz)",
+   "company": "Unimed Campina Grande",
+   "url": "https://unimedcampinagrande.gupy.io/job/eyJqb2JJZCI6MTI3NzUwNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 92,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26"
+  },
+  "ab50110b7be9ffca": {
+   "key": "estagiario de rh foco em departamento pessoal|prefeitura de santo andre",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "ESTAGIARIO DE RH FOCO EM DEPARTAMENTO PESSOAL",
+   "company": "Prefeitura de Santo André",
+   "url": "https://br.linkedin.com/jobs/view/estagiario-de-rh-foco-em-departamento-pessoal-at-prefeitura-de-santo-andr%C3%A9-4481017384",
+   "source": "linkedin",
+   "score": 89,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26"
+  },
+  "73a10443916f8162": {
+   "key": "estagiario juridico|wlt advocacia &consultoria juridica",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário jurídico",
+   "company": "WLT Advocacia &consultoria Jurídica",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-jur%C3%ADdico-4483395754",
+   "source": "linkedin",
+   "score": 86,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26"
+  },
+  "45118cbf14ad82cb": {
+   "key": "analista sistemas pleno php|bun/buntech",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12657900"
+   ],
+   "title": "Analista Sistemas Pleno PHP",
+   "company": "Bun/Buntech",
+   "url": "https://buntech.gupy.io/job/eyJqb2JJZCI6MTI2NTc5MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 81,
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26"
   }
  }
 }

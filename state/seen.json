@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-26T14:10:57",
+ "last_run": "2026-10-31T12:59:02",
  "jobs": {
   "b12b2fe16f624db4": {
    "key": "estagio em rh|petdetodoscampinagrande",
@@ -707,7 +707,7 @@
    "source": "linkedin",
    "score": 86,
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-10-31"
   },
   "45118cbf14ad82cb": {
    "key": "analista sistemas pleno php|bun/buntech",
@@ -721,7 +721,175 @@
    "source": "gupy",
    "score": 81,
    "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26"
+   "last_seen": "2026-10-31"
+  },
+  "74a4cde45efdb871": {
+   "key": "auxiliar financeiro|guilherme neto advocacia",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "auxiliar financeiro",
+   "company": "Guilherme Neto advocacia",
+   "url": "https://br.linkedin.com/jobs/view/auxiliar-financeiro-4484464973",
+   "source": "linkedin",
+   "score": 98,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "c99ba6110116e37d": {
+   "key": "aprendiz administrativo|brisanet",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12789939"
+   ],
+   "title": "Aprendiz Administrativo",
+   "company": "BRISANET",
+   "url": "https://br.indeed.com/viewjob?jk=877003f7a5bf1880",
+   "source": "indeed",
+   "score": 97,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "ba39acb94354b08f": {
+   "key": "estagiario de marketing|make wave",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário de marketing",
+   "company": "Make Wave",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-marketing-at-make-wave-4481478774",
+   "source": "linkedin",
+   "score": 88,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "246555c3df787c5b": {
+   "key": "jovem aprendiz - campina grande/pb|laticinio belo vale",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Jovem Aprendiz - Campina Grande/PB",
+   "company": "Laticínio Belo Vale",
+   "url": "https://br.linkedin.com/jobs/view/jovem-aprendiz-campina-grande-pb-at-latic%C3%ADnio-belo-vale-4483056667",
+   "source": "linkedin",
+   "score": 86,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "0a417c24e3524d1a": {
+   "key": "estagiario educacao fisica|stotheo ltda",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário Educação Física",
+   "company": "Stotheo LTDA",
+   "url": "https://br.indeed.com/viewjob?jk=db15b0cf5bb6e6a6",
+   "source": "indeed",
+   "score": 83,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "c1634488c216efc0": {
+   "key": "assistente de administracao de pessoal|grupo s2",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12785613"
+   ],
+   "title": "Assistente de Administração de Pessoal",
+   "company": "GRUPO S2",
+   "url": "https://grupos2.gupy.io/job/eyJqb2JJZCI6MTI3ODU2MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 74,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "da68ecd2c41ad707": {
+   "key": "assistente de marketing digital | campina grande - pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12798607"
+   ],
+   "title": "Assistente de Marketing Digital | Campina Grande - PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI3OTg2MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 73,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "94e66865c46b415c": {
+   "key": "agente de microcredito urbano - campina grande - pb|camed microcredito",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12774947"
+   ],
+   "title": "Agente de Microcrédito Urbano - Campina Grande - PB",
+   "company": "Camed Microcrédito",
+   "url": "https://camedmicrocredito.gupy.io/job/eyJqb2JJZCI6MTI3NzQ5NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 65,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "6eabb5a53a38d081": {
+   "key": "operador(a) de manutencao de fibra optica|brisanet",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12785186"
+   ],
+   "title": "Operador(a) de Manutenção de Fibra Óptica",
+   "company": "Brisanet",
+   "url": "https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI3ODUxODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 58,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "063c284523baa76d": {
+   "key": "consultor(a) comercial cna campina grande|cna idiomas",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12806515"
+   ],
+   "title": "CONSULTOR(A) COMERCIAL CNA CAMPINA GRANDE",
+   "company": "CNA Idiomas",
+   "url": "https://br.indeed.com/viewjob?jk=c655063652959cfe",
+   "source": "indeed",
+   "score": 50,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "9bd60b1c82383841": {
+   "key": "estagio em gente & gestao | foco em departamento pessoal|centro odontologico eydental ltda",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em Gente & Gestão | Foco em Departamento Pessoal",
+   "company": "CENTRO ODONTOLOGICO EYDENTAL LTDA",
+   "url": "https://br.indeed.com/viewjob?jk=76416f43d1997c23",
+   "source": "indeed",
+   "score": 100,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "3410764d7914d265": {
+   "key": "auxiliar administrativo|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Auxiliar Administrativo",
+   "company": "Jobbol",
+   "url": "https://br.linkedin.com/jobs/view/auxiliar-administrativo-at-jobbol-4485364630",
+   "source": "linkedin",
+   "score": 91,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
+  },
+  "51edfe550368002e": {
+   "key": "atendente de telemarketing - vagas meio periodo e vagas noturnas - campina grande/pb - aec|aec",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC",
+   "company": "AeC",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4483703530",
+   "source": "linkedin",
+   "score": 89,
+   "first_seen": "2026-10-31",
+   "last_seen": "2026-10-31"
   }
  }
 }

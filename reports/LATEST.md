@@ -1,39 +1,47 @@
-# Radar de Vagas — 26/10/2026
+# Radar de Vagas — 31/10/2026
 
-**5 vagas novas** · 13 na janela de 7 dias · gerado 26/10/2026 14:10  
-Fontes (brutas): Gupy 101 · Indeed 175 · LinkedIn 140  
+**10 vagas novas** · 15 na janela de 7 dias · gerado 31/10/2026 12:59  
+Fontes (brutas): Gupy 106 · Indeed 86 · LinkedIn 125  
 Cidades: Campina Grande · sem vagas remotas  
-Por categoria: Estágio em TI e Desenvolvimento 1 · Estágio em Dados e BI 0 · Estágio em Suporte e TI 0 · Estágio Administrativo 2 · Estágio Financeiro e Faturamento 0 · Estágio em Recursos Humanos (RH) 1 · Estágio Comercial e Atendimento 0 · Estágio em Marketing e Comunicação 0 · Estágio Geral em Escritório 9  
-Por local: Campina Grande 13
+Por categoria: Estágio em TI e Desenvolvimento 1 · Estágio em Dados e BI 0 · Estágio em Suporte e TI 1 · Estágio Administrativo 3 · Estágio Financeiro e Faturamento 1 · Estágio em Recursos Humanos (RH) 1 · Estágio Comercial e Atendimento 1 · Estágio em Marketing e Comunicação 2 · Estágio Geral em Escritório 5  
+Por local: Campina Grande 15
 
-## Destaques — top 5 novas
+## Destaques — top 10 novas
 
 | Score | Vaga | Empresa | Local | Nível | Categoria | Fonte | Publicada |
 |---:|---|---|---|---|---|---|---|
-| **100** | [Estágio em Contabilidade](https://br.indeed.com/viewjob?jk=ee0886f4da4a5525) 🆕 | CLINICA MEDICA E ODONTOLOGICA AMOR SAUDE CAMPINA GRANDE - PB LTDA | Campina Grande | Júnior | Estágio Geral em Escritório | Indeed | 21/10 (5d) |
-| **92** | [- Banco de Talentos - (Jovem aprendiz)](https://unimedcampinagrande.gupy.io/job/eyJqb2JJZCI6MTI3NzUwNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Unimed Campina Grande | Campina Grande (presencial) | Júnior | Estágio Geral em Escritório | Gupy | 23/10 (3d) |
-| **89** | [ESTAGIARIO DE RH FOCO EM DEPARTAMENTO PESSOAL](https://br.linkedin.com/jobs/view/estagiario-de-rh-foco-em-departamento-pessoal-at-prefeitura-de-santo-andr%C3%A9-4481017384) 🆕 | Prefeitura de Santo André | Campina Grande | Júnior | Estágio em Recursos Humanos (RH) | LinkedIn | 24/10 (2d) |
-| **86** | [Estagiário jurídico](https://br.linkedin.com/jobs/view/estagi%C3%A1rio-jur%C3%ADdico-4483395754) 🆕 | WLT Advocacia &consultoria Jurídica | Campina Grande | Júnior | Estágio Geral em Escritório | LinkedIn | 25/10 (1d) |
-| **81** | [Analista Sistemas Pleno PHP](https://buntech.gupy.io/job/eyJqb2JJZCI6MTI2NTc5MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Bun/Buntech | Campina Grande (presencial) | Pleno | Estágio em TI e Desenvolvimento | Gupy | 26/10 (hoje) |
+| **98** | [auxiliar financeiro](https://br.linkedin.com/jobs/view/auxiliar-financeiro-4484464973) 🆕 | Guilherme Neto advocacia | Campina Grande | Júnior | Estágio Financeiro e Faturamento | LinkedIn | 28/10 (3d) |
+| **97** | [Aprendiz Administrativo](https://br.indeed.com/viewjob?jk=877003f7a5bf1880) 🆕 | BRISANET | Campina Grande | Júnior | Estágio Administrativo | Indeed | 30/10 (1d) |
+| **88** | [Estagiário de marketing](https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-marketing-at-make-wave-4481478774) 🆕 | Make Wave | Campina Grande | Júnior | Estágio em Marketing e Comunicação | LinkedIn | 26/10 (5d) |
+| **86** | [Jovem Aprendiz - Campina Grande/PB](https://br.linkedin.com/jobs/view/jovem-aprendiz-campina-grande-pb-at-latic%C3%ADnio-belo-vale-4483056667) 🆕 | Laticínio Belo Vale | Campina Grande | Júnior | Estágio Geral em Escritório | LinkedIn | 29/10 (2d) |
+| **83** | [Estagiário Educação Física](https://br.indeed.com/viewjob?jk=db15b0cf5bb6e6a6) 🆕 | Stotheo LTDA | Campina Grande | Júnior | Estágio Geral em Escritório | Indeed | 31/10 (hoje) |
+| **74** | [Assistente de Administração de Pessoal](https://grupos2.gupy.io/job/eyJqb2JJZCI6MTI3ODU2MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | GRUPO S2 | Campina Grande (presencial) | Júnior | Estágio em Recursos Humanos (RH) | Gupy | 26/10 (5d) |
+| **73** | [Assistente de Marketing Digital / Campina Grande - PB](https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI3OTg2MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Vagas Grupo Digna | Campina Grande (presencial) | Júnior | Estágio em Marketing e Comunicação | Gupy | 28/10 (3d) |
+| **65** | [Agente de Microcrédito Urbano - Campina Grande - PB](https://camedmicrocredito.gupy.io/job/eyJqb2JJZCI6MTI3NzQ5NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Camed Microcrédito | Campina Grande (presencial) | — | Estágio Administrativo | Gupy | 28/10 (3d) |
+| **58** | [Operador(a) de Manutenção de Fibra Óptica](https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI3ODUxODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Brisanet | Campina Grande (presencial) | — | Estágio em Suporte e TI | Gupy | 30/10 (1d) |
+| **50** | [CONSULTOR(A) COMERCIAL CNA CAMPINA GRANDE](https://br.indeed.com/viewjob?jk=c655063652959cfe) 🆕 | CNA Idiomas | Campina Grande | — | Estágio Comercial e Atendimento | Indeed | 30/10 (1d) |
 
 ## Tecnologias mais pedidas
 
-Em quantas vagas cada tecnologia aparece, contando uma vez por vaga, sobre as **13** vagas com descrição (de 13 no escopo): 13 na região e 0 remotas.
+Em quantas vagas cada tecnologia aparece, contando uma vez por vaga, sobre as **15** vagas com descrição (de 15 no escopo): 15 na região e 0 remotas.
 
 | # | Tecnologia | Vagas | % | Região | Remoto |
 |---:|---|---:|---:|---:|---:|
-| 1 | **Excel** | 5 | 38% | 5 | 0 |
-| 2 | **ERP** | 2 | 15% | 2 | 0 |
-| 3 | **APIs REST** | 1 | 8% | 1 | 0 |
-| 4 | **Code review** | 1 | 8% | 1 | 0 |
-| 5 | **Git** | 1 | 8% | 1 | 0 |
-| 6 | **HTML/CSS** | 1 | 8% | 1 | 0 |
-| 7 | **JavaScript** | 1 | 8% | 1 | 0 |
-| 8 | **Laravel** | 1 | 8% | 1 | 0 |
-| 9 | **PHP** | 1 | 8% | 1 | 0 |
-| 10 | **Power BI** | 1 | 8% | 1 | 0 |
-| 11 | **SQL** | 1 | 8% | 1 | 0 |
-| 12 | **TOTVS/Protheus** | 1 | 8% | 1 | 0 |
+| 1 | **Excel** | 3 | 20% | 3 | 0 |
+| 2 | **CRM** | 2 | 13% | 2 | 0 |
+| 3 | **Inglês** | 2 | 13% | 2 | 0 |
+| 4 | **APIs REST** | 1 | 7% | 1 | 0 |
+| 5 | **Code review** | 1 | 7% | 1 | 0 |
+| 6 | **ERP** | 1 | 7% | 1 | 0 |
+| 7 | **Espanhol** | 1 | 7% | 1 | 0 |
+| 8 | **Git** | 1 | 7% | 1 | 0 |
+| 9 | **HTML/CSS** | 1 | 7% | 1 | 0 |
+| 10 | **JavaScript** | 1 | 7% | 1 | 0 |
+| 11 | **Laravel** | 1 | 7% | 1 | 0 |
+| 12 | **PHP** | 1 | 7% | 1 | 0 |
+| 13 | **Power BI** | 1 | 7% | 1 | 0 |
+| 14 | **SQL** | 1 | 7% | 1 | 0 |
+| 15 | **TOTVS/Protheus** | 1 | 7% | 1 | 0 |
 
 ## Estágio em TI e Desenvolvimento (1)
 
@@ -41,16 +49,33 @@ Em quantas vagas cada tecnologia aparece, contando uma vez por vaga, sobre as **
 
 | Score | Vaga | Empresa | Local | Nível | Fonte | Publicada |
 |---:|---|---|---|---|---|---|
-| **81** | [Analista Sistemas Pleno PHP](https://buntech.gupy.io/job/eyJqb2JJZCI6MTI2NTc5MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Bun/Buntech | Campina Grande (presencial) | Pleno | Gupy | 26/10 (hoje) |
+| **81** | [Analista Sistemas Pleno PHP](https://buntech.gupy.io/job/eyJqb2JJZCI6MTI2NTc5MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) | Bun/Buntech | Campina Grande (presencial) | Pleno | Gupy | 26/10 (5d) |
 
-## Estágio Administrativo (2)
+## Estágio em Suporte e TI (1)
 
-### Na região (2)
+### Na região (1)
 
 | Score | Vaga | Empresa | Local | Nível | Fonte | Publicada |
 |---:|---|---|---|---|---|---|
-| **100** | [Assistente Administrativo / Afirmativa para Pessoas com Deficiência - Campina Grande/PB](https://br.linkedin.com/jobs/view/assistente-administrativo-afirmativa-para-pessoas-com-defici%C3%AAncia-campina-grande-pb-at-alpargatas-s-a-4471949765) | Alpargatas S.A. | Campina Grande | Júnior | LinkedIn | 21/10 (5d) |
-| **59** | [Laboratorista - Campina Grande - PB](https://alpargatas.gupy.io/job/eyJqb2JJZCI6MTIwOTQxMzcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) | Alpargatas | Campina Grande (presencial) | — | Gupy | 19/10 (7d) |
+| **58** | [Operador(a) de Manutenção de Fibra Óptica](https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI3ODUxODYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Brisanet | Campina Grande (presencial) | — | Gupy | 30/10 (1d) |
+
+## Estágio Administrativo (3)
+
+### Na região (3)
+
+| Score | Vaga | Empresa | Local | Nível | Fonte | Publicada |
+|---:|---|---|---|---|---|---|
+| **97** | [Aprendiz Administrativo](https://br.indeed.com/viewjob?jk=877003f7a5bf1880) 🆕 | BRISANET | Campina Grande | Júnior | Indeed | 30/10 (1d) |
+| **65** | [Agente de Microcrédito Urbano - Campina Grande - PB](https://camedmicrocredito.gupy.io/job/eyJqb2JJZCI6MTI3NzQ5NDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Camed Microcrédito | Campina Grande (presencial) | — | Gupy | 28/10 (3d) |
+| **91** | [Auxiliar Administrativo](https://br.linkedin.com/jobs/view/auxiliar-administrativo-at-jobbol-4485364630) | Jobbol | Campina Grande | Júnior | LinkedIn | 30/10 (1d) |
+
+## Estágio Financeiro e Faturamento (1)
+
+### Na região (1)
+
+| Score | Vaga | Empresa | Local | Nível | Fonte | Publicada |
+|---:|---|---|---|---|---|---|
+| **98** | [auxiliar financeiro](https://br.linkedin.com/jobs/view/auxiliar-financeiro-4484464973) 🆕 | Guilherme Neto advocacia | Campina Grande | Júnior | LinkedIn | 28/10 (3d) |
 
 ## Estágio em Recursos Humanos (RH) (1)
 
@@ -58,23 +83,36 @@ Em quantas vagas cada tecnologia aparece, contando uma vez por vaga, sobre as **
 
 | Score | Vaga | Empresa | Local | Nível | Fonte | Publicada |
 |---:|---|---|---|---|---|---|
-| **89** | [ESTAGIARIO DE RH FOCO EM DEPARTAMENTO PESSOAL](https://br.linkedin.com/jobs/view/estagiario-de-rh-foco-em-departamento-pessoal-at-prefeitura-de-santo-andr%C3%A9-4481017384) 🆕 | Prefeitura de Santo André | Campina Grande | Júnior | LinkedIn | 24/10 (2d) |
+| **74** | [Assistente de Administração de Pessoal](https://grupos2.gupy.io/job/eyJqb2JJZCI6MTI3ODU2MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | GRUPO S2 | Campina Grande (presencial) | Júnior | Gupy | 26/10 (5d) |
 
-## Estágio Geral em Escritório (9)
+## Estágio Comercial e Atendimento (1)
 
-### Na região (9)
+### Na região (1)
 
 | Score | Vaga | Empresa | Local | Nível | Fonte | Publicada |
 |---:|---|---|---|---|---|---|
-| **100** | [Estágio em Contabilidade](https://br.indeed.com/viewjob?jk=ee0886f4da4a5525) 🆕 | CLINICA MEDICA E ODONTOLOGICA AMOR SAUDE CAMPINA GRANDE - PB LTDA | Campina Grande | Júnior | Indeed | 21/10 (5d) |
-| **92** | [- Banco de Talentos - (Jovem aprendiz)](https://unimedcampinagrande.gupy.io/job/eyJqb2JJZCI6MTI3NzUwNjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Unimed Campina Grande | Campina Grande (presencial) | Júnior | Gupy | 23/10 (3d) |
-| **86** | [Estagiário jurídico](https://br.linkedin.com/jobs/view/estagi%C3%A1rio-jur%C3%ADdico-4483395754) 🆕 | WLT Advocacia &consultoria Jurídica | Campina Grande | Júnior | LinkedIn | 25/10 (1d) |
-| **100** | [JOVEM APRENDIZ CAMPINA GRANDE PB](https://br.indeed.com/viewjob?jk=5dabd6d62cce54db) | redepharma | Campina Grande | Júnior | Indeed | 20/10 (6d) |
-| **100** | [Estágio em Gente & Gestão / Foco em Departamento Pessoal](https://br.indeed.com/viewjob?jk=f7c31b8101052185) | CENTRO ODONTOLOGICO EYDENTAL LTDA | Campina Grande | Júnior | Indeed | 20/10 (6d) |
-| **92** | [Jovem Aprendiz Logística - Campina Grande/PB](https://br.indeed.com/viewjob?jk=f6e0ec7902b9dbeb) | Zaaz Telecom | Campina Grande | Júnior | Indeed | 20/10 (6d) |
-| **89** | [Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC](https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4481263946) | AeC | Campina Grande | Júnior | LinkedIn | 19/10 (7d) |
-| **86** | [Estagiário de engenharia de processos](https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-engenharia-de-processos-at-rack-ind%C3%BAstria-4479418588) | Rack Indústria | Campina Grande | Júnior | LinkedIn | 21/10 (5d) |
-| **74** | [AUXILIAR ADM APRENDIZ - 0717 - 060210 - 150](https://br.indeed.com/viewjob?jk=ffb2ac33c1c4c4de) | Magazine Luiza | Campina Grande | Júnior | Indeed | 19/10 (7d) |
+| **50** | [CONSULTOR(A) COMERCIAL CNA CAMPINA GRANDE](https://br.indeed.com/viewjob?jk=c655063652959cfe) 🆕 | CNA Idiomas | Campina Grande | — | Indeed | 30/10 (1d) |
+
+## Estágio em Marketing e Comunicação (2)
+
+### Na região (2)
+
+| Score | Vaga | Empresa | Local | Nível | Fonte | Publicada |
+|---:|---|---|---|---|---|---|
+| **88** | [Estagiário de marketing](https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-marketing-at-make-wave-4481478774) 🆕 | Make Wave | Campina Grande | Júnior | LinkedIn | 26/10 (5d) |
+| **73** | [Assistente de Marketing Digital / Campina Grande - PB](https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI3OTg2MDcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=) 🆕 | Vagas Grupo Digna | Campina Grande (presencial) | Júnior | Gupy | 28/10 (3d) |
+
+## Estágio Geral em Escritório (5)
+
+### Na região (5)
+
+| Score | Vaga | Empresa | Local | Nível | Fonte | Publicada |
+|---:|---|---|---|---|---|---|
+| **86** | [Jovem Aprendiz - Campina Grande/PB](https://br.linkedin.com/jobs/view/jovem-aprendiz-campina-grande-pb-at-latic%C3%ADnio-belo-vale-4483056667) 🆕 | Laticínio Belo Vale | Campina Grande | Júnior | LinkedIn | 29/10 (2d) |
+| **83** | [Estagiário Educação Física](https://br.indeed.com/viewjob?jk=db15b0cf5bb6e6a6) 🆕 | Stotheo LTDA | Campina Grande | Júnior | Indeed | 31/10 (hoje) |
+| **100** | [Estágio em Gente & Gestão / Foco em Departamento Pessoal](https://br.indeed.com/viewjob?jk=76416f43d1997c23) | CENTRO ODONTOLOGICO EYDENTAL LTDA | Campina Grande | Júnior | Indeed | 30/10 (1d) |
+| **89** | [Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC](https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4483703530) | AeC | Campina Grande | Júnior | LinkedIn | 26/10 (5d) |
+| **86** | [Estagiário jurídico](https://br.linkedin.com/jobs/view/estagi%C3%A1rio-jur%C3%ADdico-4483395754) | WLT Advocacia &consultoria Jurídica | Campina Grande | Júnior | LinkedIn | 25/10 (6d) |
 
 ---
 

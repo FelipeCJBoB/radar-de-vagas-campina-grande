@@ -1,5 +1,5 @@
 {
- "last_run": "2026-10-31T12:59:02",
+ "last_run": "2026-11-05T15:35:11",
  "jobs": {
   "b12b2fe16f624db4": {
    "key": "estagio em rh|petdetodoscampinagrande",
@@ -747,7 +747,7 @@
    "source": "indeed",
    "score": 97,
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-05"
   },
   "ba39acb94354b08f": {
    "key": "estagiario de marketing|make wave",
@@ -783,7 +783,7 @@
    "source": "indeed",
    "score": 83,
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-05"
   },
   "c1634488c216efc0": {
    "key": "assistente de administracao de pessoal|grupo s2",
@@ -839,7 +839,7 @@
    "source": "gupy",
    "score": 58,
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-05"
   },
   "063c284523baa76d": {
    "key": "consultor(a) comercial cna campina grande|cna idiomas",
@@ -853,7 +853,7 @@
    "source": "indeed",
    "score": 50,
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-05"
   },
   "9bd60b1c82383841": {
    "key": "estagio em gente & gestao | foco em departamento pessoal|centro odontologico eydental ltda",
@@ -865,7 +865,7 @@
    "source": "indeed",
    "score": 100,
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-05"
   },
   "3410764d7914d265": {
    "key": "auxiliar administrativo|jobbol",
@@ -877,7 +877,7 @@
    "source": "linkedin",
    "score": 91,
    "first_seen": "2026-10-31",
-   "last_seen": "2026-10-31"
+   "last_seen": "2026-11-05"
   },
   "51edfe550368002e": {
    "key": "atendente de telemarketing - vagas meio periodo e vagas noturnas - campina grande/pb - aec|aec",
@@ -890,6 +890,132 @@
    "score": 89,
    "first_seen": "2026-10-31",
    "last_seen": "2026-10-31"
+  },
+  "93f74411b7ac556c": {
+   "key": "assistente administrativo (setor de estagio)|uninassau",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo (Setor de Estágio)",
+   "company": "UNINASSAU",
+   "url": "https://br.indeed.com/viewjob?jk=ad9b3288500e1bde",
+   "source": "indeed",
+   "score": 97,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "e6a10255b81eb6f2": {
+   "key": "analista de sistemas bi jr|proxxima telecom",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "ANALISTA DE SISTEMAS BI JR",
+   "company": "Proxxima Telecom",
+   "url": "https://br.linkedin.com/jobs/view/analista-de-sistemas-bi-jr-at-proxxima-telecom-4487509541",
+   "source": "linkedin",
+   "score": 95,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "c62dce3f6b0b22eb": {
+   "key": "jovem aprendiz | comercial|industria alimenticia sao braz",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "JOVEM APRENDIZ | COMERCIAL",
+   "company": "INDUSTRIA ALIMENTÍCIA SÃO BRAZ",
+   "url": "https://br.indeed.com/viewjob?jk=553bb5e1646b13d2",
+   "source": "indeed",
+   "score": 95,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "83120888280ddf7c": {
+   "key": "jovem aprendiz | comercial|sao braz s.a. industria e comercio de alimentos",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "JOVEM APRENDIZ | COMERCIAL",
+   "company": "São Braz S.A. Indústria e Comércio de Alimentos",
+   "url": "https://br.linkedin.com/jobs/view/jovem-aprendiz-comercial-at-s%C3%A3o-braz-s-a-ind%C3%BAstria-e-com%C3%A9rcio-de-alimentos-4485831666",
+   "source": "linkedin",
+   "score": 95,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "31d619bd8e29cac2": {
+   "key": "auxiliar administrativo aprendiz - campina grande - pb|solar coca-cola",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12826871"
+   ],
+   "title": "Auxiliar Administrativo Aprendiz - Campina Grande - PB",
+   "company": "Solar Coca-Cola",
+   "url": "https://br.indeed.com/viewjob?jk=56db6a354d91a09f",
+   "source": "indeed",
+   "score": 94,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "c070cfaea0d86df0": {
+   "key": "estagiario|brazuquinhas academy",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário",
+   "company": "Brazuquinhas Academy",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-4484880851",
+   "source": "linkedin",
+   "score": 83,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "c8ba12a996d4550d": {
+   "key": "planejador de manutencao - campina grande - pb|alpargatas",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12302898"
+   ],
+   "title": "Planejador de Manutenção - Campina Grande - PB",
+   "company": "Alpargatas",
+   "url": "https://alpargatas.gupy.io/job/eyJqb2JJZCI6MTIzMDI4OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 60,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "baf022eee06fe2fb": {
+   "key": "analista de departamento pessoal | campina grande-pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12839825"
+   ],
+   "title": "Analista de departamento pessoal | Campina Grande-PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI4Mzk4MjUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 51,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "c9273cb5b72d5437": {
+   "key": "estagiario comercial|grupo parvi",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário Comercial",
+   "company": "Grupo Parvi",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-comercial-at-grupo-parvi-4488013163",
+   "source": "linkedin",
+   "score": 94,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
+  },
+  "25f1b57629eea5e2": {
+   "key": "atendente de telemarketing - vagas meio periodo e vagas noturnas - campina grande/pb - aec|aec",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC",
+   "company": "AeC",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4487798475",
+   "source": "linkedin",
+   "score": 89,
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05"
   }
  }
 }

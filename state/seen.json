@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-05T15:35:11",
+ "last_run": "2026-11-10T15:32:11",
  "jobs": {
   "b12b2fe16f624db4": {
    "key": "estagio em rh|petdetodoscampinagrande",
@@ -901,7 +901,7 @@
    "source": "indeed",
    "score": 97,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-10"
   },
   "e6a10255b81eb6f2": {
    "key": "analista de sistemas bi jr|proxxima telecom",
@@ -913,7 +913,7 @@
    "source": "linkedin",
    "score": 95,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-10"
   },
   "c62dce3f6b0b22eb": {
    "key": "jovem aprendiz | comercial|industria alimenticia sao braz",
@@ -925,7 +925,7 @@
    "source": "indeed",
    "score": 95,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-10"
   },
   "83120888280ddf7c": {
    "key": "jovem aprendiz | comercial|sao braz s.a. industria e comercio de alimentos",
@@ -937,7 +937,7 @@
    "source": "linkedin",
    "score": 95,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-10"
   },
   "31d619bd8e29cac2": {
    "key": "auxiliar administrativo aprendiz - campina grande - pb|solar coca-cola",
@@ -991,7 +991,7 @@
    "source": "gupy",
    "score": 51,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05"
+   "last_seen": "2026-11-10"
   },
   "c9273cb5b72d5437": {
    "key": "estagiario comercial|grupo parvi",
@@ -1016,6 +1016,124 @@
    "score": 89,
    "first_seen": "2026-11-05",
    "last_seen": "2026-11-05"
+  },
+  "718949b78678409f": {
+   "key": "estagiario de controladoria - [campina grande]|redecompras",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário de Controladoria - [Campina Grande]",
+   "company": "redecompras",
+   "url": "https://br.indeed.com/viewjob?jk=cadd8c463a30aac2",
+   "source": "indeed",
+   "score": 98,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "0fd6dc138b7bca5b": {
+   "key": "assistente juridico | campina grande - pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12849116"
+   ],
+   "title": "Assistente jurídico | Campina Grande - PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI4NDkxMTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 91,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "23a7ca832750dc6d": {
+   "key": "jovem aprendiz | dmpb|damasio motopecas",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12812022"
+   ],
+   "title": "Jovem Aprendiz | DMPB",
+   "company": "Damásio Motopeças",
+   "url": "https://br.indeed.com/viewjob?jk=742a39a3b0df4e82",
+   "source": "indeed",
+   "score": 83,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "9137689592c56d45": {
+   "key": "assistente contabil | campina grande - pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12858063"
+   ],
+   "title": "Assistente Contábil | Campina Grande - PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://sejadigna.gupy.io/job/eyJqb2JJZCI6MTI4NTgwNjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 79,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "9a7c0397d2e10ed2": {
+   "key": "instrutor educacional tecnico (tecnologia da informacao - cadastro reserva) senai citi/cam|senai paraiba",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "INSTRUTOR EDUCACIONAL TÉCNICO (TECNOLOGIA DA INFORMAÇÃO - CADASTRO RESERVA) SENAI CITI/CAM",
+   "company": "SENAI Paraíba",
+   "url": "https://br.linkedin.com/jobs/view/instrutor-educacional-t%C3%A9cnico-tecnologia-da-informa%C3%A7%C3%A3o-cadastro-reserva-senai-citi-cam-at-senai-para%C3%ADba-4486293583",
+   "source": "linkedin",
+   "score": 78,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "20d57569051f8719": {
+   "key": "consultora de vendas interna|face doctor joao pessoa",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Consultora de Vendas Interna",
+   "company": "FACE DOCTOR JOÃO PESSOA",
+   "url": "https://br.indeed.com/viewjob?jk=cf7f44e9b63f8f2f",
+   "source": "indeed",
+   "score": 68,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "4a1425e5124a8089": {
+   "key": "analista de estoque campina grande pb|redepharma",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12866139"
+   ],
+   "title": "ANALISTA DE ESTOQUE CAMPINA GRANDE PB",
+   "company": "Redepharma",
+   "url": "https://redepharma.gupy.io/job/eyJqb2JJZCI6MTI4NjYxMzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 51,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "7f89fc517964b5a2": {
+   "key": "estagiario comercial|parvi",
+   "aliases": [
+    "estagiario comercial|grupo parvi"
+   ],
+   "ext_keys": [],
+   "title": "Estagiário Comercial",
+   "company": "PARVI",
+   "url": "https://br.indeed.com/viewjob?jk=7d4feea10d1b389b",
+   "source": "indeed",
+   "score": 94,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
+  },
+  "75682d53c217b5dc": {
+   "key": "atendente de telemarketing - vagas meio periodo e vagas noturnas - campina grande/pb - aec|aec",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC",
+   "company": "AeC",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4489101348",
+   "source": "linkedin",
+   "score": 89,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10"
   }
  }
 }

@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-10T15:32:11",
+ "last_run": "2026-11-15T14:37:19",
  "jobs": {
   "b12b2fe16f624db4": {
    "key": "estagio em rh|petdetodoscampinagrande",
@@ -1055,7 +1055,7 @@
    "source": "indeed",
    "score": 83,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-15"
   },
   "9137689592c56d45": {
    "key": "assistente contabil | campina grande - pb|vagas grupo digna",
@@ -1069,7 +1069,7 @@
    "source": "gupy",
    "score": 79,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-15"
   },
   "9a7c0397d2e10ed2": {
    "key": "instrutor educacional tecnico (tecnologia da informacao - cadastro reserva) senai citi/cam|senai paraiba",
@@ -1093,7 +1093,7 @@
    "source": "indeed",
    "score": 68,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-15"
   },
   "4a1425e5124a8089": {
    "key": "analista de estoque campina grande pb|redepharma",
@@ -1107,7 +1107,7 @@
    "source": "gupy",
    "score": 51,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-15"
   },
   "7f89fc517964b5a2": {
    "key": "estagiario comercial|parvi",
@@ -1133,7 +1133,81 @@
    "source": "linkedin",
    "score": 89,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-10"
+   "last_seen": "2026-11-15"
+  },
+  "0d19ba73d10f8f3e": {
+   "key": "assistente administrativo|lira sat",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente administrativo",
+   "company": "Lira Sat",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-at-lira-sat-4488248791",
+   "source": "linkedin",
+   "score": 100,
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  "52441949a7e8ef57": {
+   "key": "estagiario|fiori jeep",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário",
+   "company": "Fiori Jeep",
+   "url": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-at-fiori-jeep-4488543176",
+   "source": "linkedin",
+   "score": 98,
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  "b97d441c48ab9ab5": {
+   "key": "assistente administrativo - jovem aprendiz|ecco liberty",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo - Jovem Aprendiz",
+   "company": "ECCO LIBERTY",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-jovem-aprendiz-at-ecco-liberty-4490368539",
+   "source": "linkedin",
+   "score": 91,
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  "88772c2ec4fb1758": {
+   "key": "estagio em comunicacao social, jornalismo ou arte e midia - mcti /pb|agua ceu azul",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em Comunicação Social, Jornalismo ou Arte e Mídia - MCTI /PB",
+   "company": "Água Céu Azul",
+   "url": "https://br.indeed.com/viewjob?jk=130d4d863a784f7c",
+   "source": "indeed",
+   "score": 89,
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  "4871f021640e3504": {
+   "key": "estagio em comunicacao social, jornalismo ou arte e midia - mcti /pb|recruta easy",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estágio em Comunicação Social, Jornalismo ou Arte e Mídia - MCTI /PB",
+   "company": "Recruta Easy",
+   "url": "https://br.indeed.com/viewjob?jk=07a94790f47b4bc1",
+   "source": "indeed",
+   "score": 89,
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
+  },
+  "1f8e5fe4307ff243": {
+   "key": "supervisor(a) de servicos de campo|brisanet",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12830336"
+   ],
+   "title": "Supervisor(a) de Serviços de Campo",
+   "company": "Brisanet",
+   "url": "https://brisanet.gupy.io/job/eyJqb2JJZCI6MTI4MzAzMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 20,
+   "first_seen": "2026-11-15",
+   "last_seen": "2026-11-15"
   }
  }
 }

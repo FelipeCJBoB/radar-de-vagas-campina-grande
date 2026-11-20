@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-15T14:37:19",
+ "last_run": "2026-11-20T16:00:11",
  "jobs": {
   "b12b2fe16f624db4": {
    "key": "estagio em rh|petdetodoscampinagrande",
@@ -1193,7 +1193,7 @@
    "source": "indeed",
    "score": 89,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-15"
+   "last_seen": "2026-11-20"
   },
   "1f8e5fe4307ff243": {
    "key": "supervisor(a) de servicos de campo|brisanet",
@@ -1208,6 +1208,228 @@
    "score": 20,
    "first_seen": "2026-11-15",
    "last_seen": "2026-11-15"
+  },
+  "3e13bd6e69258acd": {
+   "key": "auxiliar administrativo|unifacisa centro universitario",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Auxiliar Administrativo",
+   "company": "Unifacisa Centro Universitário",
+   "url": "https://br.linkedin.com/jobs/view/auxiliar-administrativo-at-unifacisa-centro-universit%C3%A1rio-4491350700",
+   "source": "linkedin",
+   "score": 100,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "2175a8b91624cdcf": {
+   "key": "jovem aprendiz - ti|unifacisa centro universitario",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Jovem Aprendiz - TI",
+   "company": "Unifacisa Centro Universitário",
+   "url": "https://br.linkedin.com/jobs/view/jovem-aprendiz-ti-at-unifacisa-centro-universit%C3%A1rio-4490473701",
+   "source": "linkedin",
+   "score": 98,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "11e6ecc2fabaf8de": {
+   "key": "aprendiz administrativo (setor logistica)|aurora coop",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12895173"
+   ],
+   "title": "Aprendiz Administrativo (Setor Logística)",
+   "company": "Aurora Coop",
+   "url": "https://br.indeed.com/viewjob?jk=6c0343a3e092b7d2",
+   "source": "indeed",
+   "score": 97,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "61dd5ac65adef73d": {
+   "key": "atendente de suporte tecnico|acessa nordeste",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Atendente de Suporte Técnico",
+   "company": "Acessa Nordeste",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-suporte-t%C3%A9cnico-at-acessa-nordeste-4492776225",
+   "source": "linkedin",
+   "score": 96,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "f34de65bfc9b75e9": {
+   "key": "estagiario(a) de recepcao – academia korpus|academia korpus",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Estagiário(a) de Recepção – Academia Korpus",
+   "company": "academia korpus",
+   "url": "https://br.indeed.com/viewjob?jk=a94794b8dd740b01",
+   "source": "indeed",
+   "score": 95,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "4f1bb895f087136f": {
+   "key": "assistente administrativo - vaga exclusiva para pessoas com deficiencia (pcd)|grupo gotemburgo",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "ASSISTENTE ADMINISTRATIVO - VAGA EXCLUSIVA PARA PESSOAS COM DEFICIÊNCIA (PCD)",
+   "company": "Grupo Gotemburgo",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-vaga-exclusiva-para-pessoas-com-defici%C3%AAncia-pcd-at-gotemburgo-concession%C3%A1ria-volvo-caminh%C3%B5es-%C3%B4nibus-e-equipamentos-de-constru%C3%A7%C3%A3o-4492763375",
+   "source": "linkedin",
+   "score": 94,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "a194cc689606ed1a": {
+   "key": "auxiliar de coordenacao pedagogica - iso colegio e cursos campina grande|iso colegio e cursos",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12901903"
+   ],
+   "title": "Auxiliar de Coordenação Pedagógica - ISO Colégio e Cursos Campina Grande",
+   "company": "Iso Colégio e Cursos",
+   "url": "https://iso.gupy.io/job/eyJqb2JJZCI6MTI5MDE5MDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 88,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "cc86cc775a1dc700": {
+   "key": "estagiario na area de controladoria - sem experiencia (redecompras)|jobbol",
+   "aliases": [
+    "estagiario na area de controladoria|jobbol"
+   ],
+   "ext_keys": [],
+   "title": "ESTAGIÁRIO NA ÁREA DE CONTROLADORIA - Sem experiência (Redecompras)",
+   "company": "Jobbol",
+   "url": "https://br.indeed.com/viewjob?jk=b6d44c7c2ce93ffd",
+   "source": "indeed",
+   "score": 86,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "2971f542454f4fdf": {
+   "key": "jovem aprendiz|banco do brasil",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Jovem Aprendiz",
+   "company": "Banco do Brasil",
+   "url": "https://br.indeed.com/viewjob?jk=c34e1d0021edc975",
+   "source": "indeed",
+   "score": 83,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "d65ffe87901ddb6a": {
+   "key": "assistente de rh (recrutador) campina grande pb|redepharma",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12900318"
+   ],
+   "title": "ASSISTENTE DE RH (RECRUTADOR) CAMPINA GRANDE PB",
+   "company": "Redepharma",
+   "url": "https://redepharma.gupy.io/job/eyJqb2JJZCI6MTI5MDAzMTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 74,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "3986ed1f097f0e11": {
+   "key": "banco de talentos - inspetor de qualidade - mixing center - campina grande - pb|alpargatas",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12835952"
+   ],
+   "title": "Banco de Talentos - Inspetor de Qualidade - Mixing Center - Campina Grande - PB",
+   "company": "Alpargatas",
+   "url": "https://alpargatas.gupy.io/job/eyJqb2JJZCI6MTI4MzU5NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 62,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "c98274f1b83ef4a0": {
+   "key": "operador de caixa - toda obra|ag consultoria",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "OPERADOR DE CAIXA - TODA OBRA",
+   "company": "AG Consultoria",
+   "url": "https://br.indeed.com/viewjob?jk=9c119eda0d36dcb5",
+   "source": "indeed",
+   "score": 59,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "7a332a499fa25d98": {
+   "key": "banco de talentos - supervisor de centro de distribuicao - mixing center - campina grande - pb|alpargatas",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12262529"
+   ],
+   "title": "Banco de Talentos - Supervisor de Centro de Distribuição - Mixing Center - Campina Grande - PB",
+   "company": "Alpargatas",
+   "url": "https://alpargatas.gupy.io/job/eyJqb2JJZCI6MTIyNjI1MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 25,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "440444e26db3a27a": {
+   "key": "coordenador de atendimento|necxt",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12920804"
+   ],
+   "title": "Coordenador de Atendimento",
+   "company": "Necxt",
+   "url": "https://necxt.gupy.io/job/eyJqb2JJZCI6MTI5MjA4MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "source": "gupy",
+   "score": 19,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "adbc9b480bb42bc4": {
+   "key": "estagiario comercial|parvi",
+   "aliases": [
+    "estagiario comercial|grupo parvi"
+   ],
+   "ext_keys": [],
+   "title": "Estagiário Comercial",
+   "company": "PARVI",
+   "url": "https://br.indeed.com/viewjob?jk=3c4aad20bf1a6d87",
+   "source": "indeed",
+   "score": 94,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "f29d57f6bb94e1b5": {
+   "key": "jovem aprendiz | campina grande-pb|vagas grupo digna",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12899813"
+   ],
+   "title": "Jovem Aprendiz | Campina Grande-PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://br.indeed.com/viewjob?jk=bf2996a97e7a6042",
+   "source": "indeed",
+   "score": 92,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
+  },
+  "310f0f33271c497a": {
+   "key": "atendente de telemarketing - vagas meio periodo e vagas noturnas - campina grande/pb - aec|aec",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC",
+   "company": "AeC",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4490110249",
+   "source": "linkedin",
+   "score": 89,
+   "first_seen": "2026-11-20",
+   "last_seen": "2026-11-20"
   }
  }
 }

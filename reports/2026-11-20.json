@@ -1,0 +1,1486 @@
+{
+ "run_date": "2026-11-20",
+ "run_date_br": "20/11/2026",
+ "run_time": "16:00",
+ "lookback_days": 7,
+ "jobs": [
+  {
+   "source": "linkedin",
+   "title": "Auxiliar Administrativo",
+   "company": "Unifacisa Centro Universitário",
+   "url": "https://br.linkedin.com/jobs/view/auxiliar-administrativo-at-unifacisa-centro-universit%C3%A1rio-4491350700",
+   "location": "Campina Grande, PB",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-18",
+   "description": "Nível de experiência (LinkedIn): Não aplicável. Descrição Prestar suporte às atividades administrativas e operacionais da Biblioteca, contribuindo para a organização do acervo, atendimento aos usuários e bom funcionamento dos serviços oferecidos, garantindo agilidade, organização e qualidade no atendimento. Responsabilidades e atribuições Realizar atendimento presencial e/ou remoto aos alunos, professores e demais usuários da Biblioteca; Orientar os usuários quanto à utilização dos serviços, espaços e recursos disponíveis; Realizar empréstimos, devoluções, renovações e reservas de materiais bibliográficos; Efetuar cadastro e atualização de dados dos usuários e materiais no sistema da Biblioteca; Organizar, guardar e manter os materiais bibliográficos devidamente identificados e dispostos no acervo; Auxiliar na localização de livros, periódicos e demais materiais solicitados pelos usuários; Apoiar o controle do acervo, identificando materiais fora do lugar, danificados ou que necessitem de manutenção; Realizar conferência e organização de documentos, relatórios e registros administrativos; Apoiar processos de inventário e levantamento do acervo; Zelar pela organização e conservação dos espaços da Biblioteca; Auxiliar na elaboração e atualização de controles e planilhas; Apoiar as demais atividades administrativas e operacionais do setor, conforme necessidade. Requisitos e qualificações Ensino médio completo; Conhecimento básico em informática e pacote Office; Boa comunicação verbal e escrita; Organização e atenção aos detalhes; Facilidade para atendimento ao público; Perfil colaborativo e proativo.",
+   "tags": [
+    "nivel:Não aplicável"
+   ],
+   "external_id": null,
+   "category": "estagio_administrativo",
+   "categories": [
+    "estagio_administrativo",
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 100,
+   "reasons": [
+    "Estágio Administrativo (+30)",
+    "prioridade da categoria (+8)",
+    "também: Estágio Geral em Escritório (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: pacote office, atendimento, organizacao, comunicacao (+12)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "3e13bd6e69258acd",
+   "age_days": 2
+  },
+  {
+   "source": "linkedin",
+   "title": "Jovem Aprendiz - TI",
+   "company": "Unifacisa Centro Universitário",
+   "url": "https://br.linkedin.com/jobs/view/jovem-aprendiz-ti-at-unifacisa-centro-universit%C3%A1rio-4490473701",
+   "location": "Campina Grande, PB",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-17",
+   "description": "Nível de experiência (LinkedIn): Não aplicável. Descrição Auxiliar nas atividades de infraestrutura e suporte de Tecnologia da Informação, prestando apoio à equipe nos atendimentos aos usuários, organização e manutenção de equipamentos, instalação de softwares e acompanhamento das demandas técnicas, contribuindo para o funcionamento adequado dos recursos tecnológicos da instituição. Responsabilidades e atribuições Auxiliar no atendimento e suporte técnico aos colaboradores e alunos, prestando orientações básicas sobre o uso de equipamentos e sistemas; Apoiar na instalação, configuração e atualização de computadores, impressoras e demais periféricos; Auxiliar na preparação, organização e manutenção preventiva dos equipamentos de informática; Apoiar na identificação e resolução de problemas básicos de hardware e software; Auxiliar na organização e identificação de cabos, equipamentos e pontos de rede; Apoiar no controle de inventário, empréstimos e movimentação de equipamentos de TI; Realizar registros e acompanhamentos de chamados técnicos; Auxiliar na organização de documentos, planilhas e controles internos do setor; Apoiar a equipe nas demais atividades relacionadas à infraestrutura e ao suporte de TI. Requisitos e qualificações Ensino médio concluído; Conhecimento básico em informática; Noções de pacote Office; Interesse em aprender sobre manutenção de computadores, redes e suporte técnico; Disponibilidade para cumprir a jornada de aprendizagem.",
+   "tags": [
+    "nivel:Não aplicável"
+   ],
+   "external_id": null,
+   "category": "estagio_geral_escritorio",
+   "categories": [
+    "estagio_geral_escritorio",
+    "estagio_suporte_ti",
+    "estagio_administrativo"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 98,
+   "reasons": [
+    "Estágio Geral em Escritório (+30)",
+    "prioridade da categoria (+3)",
+    "também: Estágio em Suporte e TI, Estágio Administrativo (+6)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: pacote office, atendimento, organizacao (+9)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "2175a8b91624cdcf",
+   "age_days": 3
+  },
+  {
+   "source": "indeed",
+   "title": "Aprendiz Administrativo (Setor Logística)",
+   "company": "Aurora Coop",
+   "url": "https://br.indeed.com/viewjob?jk=6c0343a3e092b7d2",
+   "location": "Campina Grande, PB, Brazil",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-17",
+   "description": "O **Aprendiz de Logística** irá acompanhar e apoiar as atividades operacionais e administrativas da área logística, contribuindo para o controle de estoque, conferência de documentos, lançamento de informações em sistemas, organização de arquivos, acompanhamento de movimentações de mercadorias e suporte às rotinas de recebimento, armazenagem e expedição de produtos. Atuará em conformidade com os procedimentos internos, desenvolvendo conhecimentos práticos sobre a cadeia logística e os processos da empresa.\n\n  \n  \n  \n**Responsabilidades e atribuições**  \n\n* Auxiliar nas rotinas administrativas e operacionais da área de Logística;\n* Realizar atualização de planilhas, relatórios e controles da área;\n* Apoiar o acompanhamento de indicadores logísticos e registros operacionais;\n* Auxiliar na emissão, organização e arquivamento de documentos logísticos;\n* Auxiliar no controle de entrada e saída de materiais;\n* Prestar suporte às equipes de transporte, armazenagem e distribuição;\n* Contribuir para a organização do ambiente de trabalho, seguindo os padrões de qualidade, segurança e boas práticas da empresa;\n* Participar dos treinamentos e atividades de desenvolvimento do Programa de Aprendizagem.\n\n  \n  \n  \n  \n**Requisitos e qualificações**  \n\n* Ensino Médio cursando/concluído;\n* Disponibilidade para atuar no período da manhã/tarde;\n* Residir em Campina Grande/PB;\n* Conhecimento em pacote office será considerado um diferencial;\n* Desejo de cooperar.\n\n  \n**Informações adicionais**\n\nLocal de Trabalho: Av. João Wallig, 1285 - Distrito Industrial (Sala Aurora - Galpão 06)  \nHorário: 08:00 às 12:00 / 13:00 às 17:00\n\nNa Aurora Coop você receberá os **benefícios** de:\n\n* Plano Odontológico\n* Seguro de Vida\n* Participação por Resultados - PPR\n* Vale Transporte\n* Vale Alimentação (Prêmio assiduidade)\n\nJuntos, somamos mais de **50 mil colaboradores** em unidades de Norte a Sul do Brasil, com culturas, etnias e idiomas diferentes, mas todos temos o mesmo propósito. Conquistamos o mercado brasileiro e mundial levando do campo à mesa dos consumidores alimentos de excelência. Nos orgulhamos de sermos referência mundial na tecnologia e processamento de carnes com uma trajetória de mais de 50 anos. Com a força da cooperação transformamos o mundo.\n\nVamos juntos?",
+   "tags": [],
+   "external_id": "gupy:12895173",
+   "category": "estagio_administrativo",
+   "categories": [
+    "estagio_administrativo",
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 97,
+   "reasons": [
+    "Estágio Administrativo (+30)",
+    "prioridade da categoria (+8)",
+    "também: Estágio Geral em Escritório (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: pacote office, organizacao (+6)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "11e6ecc2fabaf8de",
+   "age_days": 3
+  },
+  {
+   "source": "linkedin",
+   "title": "Atendente de Suporte Técnico",
+   "company": "Acessa Nordeste",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-suporte-t%C3%A9cnico-at-acessa-nordeste-4492776225",
+   "location": "Campina Grande, PB",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-20",
+   "description": "Nível de experiência (LinkedIn): Assistente. ESTAMOS CONTRATANDOAtendente de Suporte Técnico Call Center 📍 Campina Grande/PB — Presencial 📄 Contratação CLT ⏰ Escala 6×1 — 6 horas por dia 🚀 3 ou mais vagas — início imediato 💰 Salário a combinar Principais atividades: Atendimento por telefone e WhatsApp; Suporte inicial de internet; Testes e configurações básicas; Abertura e acompanhamento de chamados; Encaminhamento de casos ao NOC. Requisitos: Boa comunicação e escrita; Conhecimentos básicos de informática; Experiência com atendimento ao cliente; Disponibilidade para trabalhar em escala. Benefícios: Alelo Multibenefícios; Internet gratuita oferecida pela empresa. Faça parte da Acessa Nordeste! Candidate-se pelo LinkedIn. \\",
+   "tags": [
+    "nivel:Assistente",
+    "junior"
+   ],
+   "external_id": null,
+   "category": "estagio_suporte_ti",
+   "categories": [
+    "estagio_suporte_ti"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 96,
+   "reasons": [
+    "Estágio em Suporte e TI (+30)",
+    "prioridade da categoria (+10)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: atendimento, comunicacao (+6)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "61dd5ac65adef73d",
+   "age_days": 0
+  },
+  {
+   "source": "indeed",
+   "title": "Estagiário(a) de Recepção – Academia Korpus",
+   "company": "academia korpus",
+   "url": "https://br.indeed.com/viewjob?jk=a94794b8dd740b01",
+   "location": "Campina Grande, PB, Brazil",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-17",
+   "description": "A Academia Korpus está em busca de um(a) estagiário(a) para atuar na recepção, auxiliando no atendimento aos alunos e nas rotinas administrativas da unidade.\n\n**Principais atividades:**\n\n* Recepcionar alunos e visitantes, prestando um atendimento cordial e acolhedor;\n* Auxiliar no atendimento presencial e via WhatsApp;\n* Prestar informações sobre planos, serviços e funcionamento da academia;\n* Apoiar a equipe de consultores nas atividades de atendimento e relacionamento com os alunos;\n* Auxiliar na organização de cadastros, documentos e rotinas administrativas;\n* Contribuir para a organização e o bom funcionamento da recepção.\n\n**Cursos desejáveis (graduação ou técnico):**\n\n* Administração;\n* Gestão Comercial;\n* Marketing;\n* Processos Gerenciais;\n* Gestão de Recursos Humanos;\n* Comunicação Social;\n* Relações Públicas;\n* Secretariado;\n* Gestão Desportiva ou áreas correlatas.\n\n**Requisitos:**\n\n* Estar regularmente matriculado em um dos cursos mencionados ou em áreas afins;\n* Boa comunicação verbal e escrita;\n* Facilidade para lidar com o público;\n* Conhecimento básico em informática;\n* Organização, proatividade e disposição para aprender.\n\n**Diferencial:**\n\n* Interesse pelo segmento fitness e bem-estar;\n* Afinidade com atendimento ao cliente e relacionamento interpessoal;\n* Experiência anterior com atendimento ao público, mesmo que informal.\n\nPagamento: R$1.010,38 por mês\n\nLocal do trabalho: Presencial",
+   "tags": [
+    "estagio"
+   ],
+   "external_id": null,
+   "category": "estagio_geral_escritorio",
+   "categories": [
+    "estagio_geral_escritorio",
+    "estagio_administrativo"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 95,
+   "reasons": [
+    "Estágio Geral em Escritório (+30)",
+    "prioridade da categoria (+3)",
+    "também: Estágio Administrativo (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: atendimento, organizacao, comunicacao (+9)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "f34de65bfc9b75e9",
+   "age_days": 3
+  },
+  {
+   "source": "linkedin",
+   "title": "ASSISTENTE ADMINISTRATIVO - VAGA EXCLUSIVA PARA PESSOAS COM DEFICIÊNCIA (PCD)",
+   "company": "Grupo Gotemburgo",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-vaga-exclusiva-para-pessoas-com-defici%C3%AAncia-pcd-at-gotemburgo-concession%C3%A1ria-volvo-caminh%C3%B5es-%C3%B4nibus-e-equipamentos-de-constru%C3%A7%C3%A3o-4492763375",
+   "location": "Campina Grande, PB",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-20",
+   "description": "Nível de experiência (LinkedIn): Não aplicável. VAGA EXCLUSIVA PARA PESSOAS COM DEFICIÊNCIA (PCD) Estamos em busca de um(a) profissional organizado(a), proativo(a) e comprometido(a) para integrar nossa equipe, atuando no suporte às rotinas administrativas e operacionais, com foco no controle de faturamento, gestão de processos e análise de indicadores. 🎯 Principais responsabilidades Controle do faturamento diário e análise de indicadores de desempenho; Suporte às reuniões e às demandas da gestão; Realização de apontamentos e atualização de sistemas (GDS, Ticket Log, Uber, entre outros); Controle e acompanhamento da frota própria e locada, incluindo IPVA, emplacamentos e faturas; Realização de compras e controle de materiais, ferramentas e brindes; Agendamento de clientes e serviços; Organização e gestão de arquivos e documentos físicos e digitais; Solicitação, análise e acompanhamento de orçamentos; Emissão de adiantamentos e elaboração de Relatórios de Despesas (RDVs). 📌 Requisitos Ensino médio completo Desejável formação técnica ou superior em Administração, Ciências Contábeis ou áreas correlatas; Conhecimento intermediário em Pacote Office; Conhecimento em rotinas contábeis e administrativas; Organização, atenção aos detalhes e boa capacidade analítica; Proatividade e facilidade para trabalhar em equipe. ⏰ Jornada de trabalho Segunda a sexta-feira, das 7h30 às 17h18 🌟 Venha fazer parte do nosso time! Se você gosta de desafios, tem perfil analítico, é organizado(a) e busca uma oportunidade para desenvolver suas habilidades na área administrativa e operacional, queremos conhecer você!",
+   "tags": [
+    "nivel:Não aplicável"
+   ],
+   "external_id": null,
+   "category": "estagio_administrativo",
+   "categories": [
+    "estagio_administrativo"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 94,
+   "reasons": [
+    "Estágio Administrativo (+30)",
+    "prioridade da categoria (+8)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: pacote office, organizacao (+6)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "4f1bb895f087136f",
+   "age_days": 0
+  },
+  {
+   "source": "gupy",
+   "title": "Auxiliar de Coordenação Pedagógica - ISO Colégio e Cursos Campina Grande",
+   "company": "Iso Colégio e Cursos",
+   "url": "https://iso.gupy.io/job/eyJqb2JJZCI6MTI5MDE5MDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "location": "Campina Grande, Paraíba",
+   "city": "Campina Grande",
+   "state": "Paraíba",
+   "remote": false,
+   "workplace": "onsite",
+   "date_posted": "2026-11-17",
+   "description": "Nossa missão é formar pessoas para um mundo em constante transformação, promovendo felicidade, desenvolvimento humano, excelência acadêmica e impactando positivamente a sociedade.Está posição atuará no Ensino Médio.Responsabilidades e atribuiçõesO que você vai fazer nesta posição?Apoio ao Planejamento Pedagógico: Auxiliar a coordenação na elaboração e organização do planejamento pedagógico, contribuindo com a preparação de materiais e cronogramas de atividades.Suporte às Reuniões e Eventos: Organizar a agenda da coordenação pedagógica e apoiar na realização de reuniões e eventos, como encontros com pais e reuniões pedagógicas.Gestão de Documentação Escolar: Acompanhar e manter atualizados os registros e documentos acadêmicos, como listas de presença, planos de aula e relatórios pedagógicos.Acompanhamento de Desempenho dos Alunos: Auxiliar no monitoramento de indicadores de desempenho dos alunos, realizando levantamentos de notas, frequência e outras métricas solicitadas pela coordenação.Comunicação com Pais e Alunos: Facilitar a comunicação entre a coordenação, alunos e familiares, garantindo que informações importantes sejam transmitidas e respondendo a dúvidas e solicitações conforme orientação.Mediação de Conflitos Menores: Auxiliar na resolução de pequenas questões ou conflitos entre alunos, professores ou pais, encaminhando situações mais complexas para a coordenação.Controle de Materiais e Recursos Pedagógicos: Gerenciar o estoque e a distribuição de materiais didáticos, assegurando que professores e alunos tenham acesso aos recursos necessários.Acompanhamento de Projetos Pedagógicos: Colaborar na implementação de projetos e programas pedagógicos, apoiando a coordenação no planejamento e execução das atividades.Auxílio em Processos Administrativos: Contribuir com tarefas administrativas que facilitam a rotina da coordenação, como organização de horários de professores, gestão de substituições e acompanhamento de cronogramas.Requisitos e qualificaçõesFormação Acadêmica:Ensino superior completo ou em andamento em Pedagogia ou Licencitura.Experiência anterior:Experiência em funções de suporte pedagógico, como monitoria ou outras atividades educacionais, é desejável.Conhecimento de processos pedagógicos:Familiaridade com rotinas e processos pedagógicos, como planejamento de aulas, acompanhamento de desempenho e atividades de formação continuada.Habilidades de comunicação:Excelente comunicação oral e escrita, com capacidade para interagir de forma eficiente com alunos, professores e pais.Organização e gestão de tempo:Competência em gerenciar múltiplas tarefas, manter registros organizados e cumprir prazos.Domínio de ferramentas de informática:Conhecimento em ferramentas do pacote Office (Word, Excel, PowerPoint) e sistemas de gestão escolar.Flexibilidade e adaptação:Disponibilidade para se adaptar a diferentes tarefas e colaborar com a equipe em eventos e atividades fora da rotina.Informações adicionaisPLR Vendas: Participação nos Lucros e Resultados baseada nas metas da unidade.Plano de Saúde: Auxílio para o titular do plano de saúde Unimed BH. Dependentes podem ser incluídos com custo integral.Vale Transporte: Desconto de até 6% no salário base para cobrir o transporte entre casa e trabalho.Day Off de Aniversário: Folga no mês de aniversário, alinhada com o gestor.Bolsa Escolar para Filhos: Desconto nas mensalidades em escolas do grupo para filhos de colaboradores, conforme regras específicas.Clube Salta +Benefícios: Descontos em lojas, restaurantes, saúde e outros serviços, com acesso via portal exclusivo para colaboradores.",
+   "tags": [],
+   "external_id": "gupy:12901903",
+   "category": "estagio_administrativo",
+   "categories": [
+    "estagio_administrativo",
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 88,
+   "reasons": [
+    "Estágio Administrativo (+12)",
+    "prioridade da categoria (+8)",
+    "também: Estágio Geral em Escritório (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: excel, pacote office, word, organizacao, comunicacao (+15)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [
+    "excel"
+   ],
+   "id": "a194cc689606ed1a",
+   "age_days": 3
+  },
+  {
+   "source": "indeed",
+   "title": "ESTAGIÁRIO NA ÁREA DE CONTROLADORIA - Sem experiência (Redecompras)",
+   "company": "Jobbol",
+   "url": "https://br.indeed.com/viewjob?jk=b6d44c7c2ce93ffd",
+   "location": "Campina Grande, PB, Brazil",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-19",
+   "description": "Supermercado busca profissional Estagiário na área de Controladoria em Campina Grande.\n\nA RedeCompras é uma rede brasileira de supermercados fundada em 1991, com sede em Campina Grande, na Paraíba. De origem familiar, atua no comércio varejista de alimentos, bebidas, produtos de higiene, limpeza e utilidades domésticas. Oferece serviços de açougue, padaria, hortifrúti e compras online, com opções de entrega.\n\n**Responsabilidades:**\n\nApoiar a organização e a conferência de informações administrativas e financeiras. Auxiliar na elaboração e atualização de relatórios internos e controles da área. Dar suporte ao acompanhamento de documentos, registros e prazos relacionados às rotinas da controladoria. Colaborar com a equipe na análise de dados e na preparação de informações para tomada de decisão.\n\nAtuações anteriores em Estagiário em Finanças, Estagiário de Contabilidade, Estagiário de Auditoria ou Estagiário em Análise Financeira podem indicar afinidade com algumas das atividades desta posição.\n\nEnsino superior em andamento Sem experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n* Auxílio Educação |Plano de Carreira |Vale Transporte\n\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Estágio - Presencial.\n* Período: Meio Período\n* Jornada: A combinar",
+   "tags": [
+    "estagio"
+   ],
+   "external_id": null,
+   "category": "estagio_geral_escritorio",
+   "categories": [
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 86,
+   "reasons": [
+    "Estágio Geral em Escritório (+30)",
+    "prioridade da categoria (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: organizacao (+3)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [
+    "estagiario na area de controladoria|jobbol"
+   ],
+   "skills": [],
+   "id": "cc86cc775a1dc700",
+   "age_days": 1
+  },
+  {
+   "source": "indeed",
+   "title": "Jovem Aprendiz",
+   "company": "Banco do Brasil",
+   "url": "https://br.indeed.com/viewjob?jk=c34e1d0021edc975",
+   "location": "Campina Grande, PB, Brazil",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-19",
+   "description": "***busco um*** emprego\\_ **como jovem** *aprendiz* **para realizar novas experiências** \\_\n\nPagamento: R$1.621,00 - R$1.821,00 por mês\n\nBenefícios:\n\n* Vale-alimentação\n* Vale-transporte\n\nLocal do trabalho: Presencial",
+   "tags": [],
+   "external_id": null,
+   "category": "estagio_geral_escritorio",
+   "categories": [
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 83,
+   "reasons": [
+    "Estágio Geral em Escritório (+30)",
+    "prioridade da categoria (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "2971f542454f4fdf",
+   "age_days": 1
+  },
+  {
+   "source": "gupy",
+   "title": "ASSISTENTE DE RH (RECRUTADOR) CAMPINA GRANDE PB",
+   "company": "Redepharma",
+   "url": "https://redepharma.gupy.io/job/eyJqb2JJZCI6MTI5MDAzMTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "location": "Campina Grande, Paraíba",
+   "city": "Campina Grande",
+   "state": "Paraíba",
+   "remote": false,
+   "workplace": "onsite",
+   "date_posted": "2026-11-16",
+   "description": "Estamos em busca de um(a) Recrutador(a) apaixonado(a) por conectar pessoas e oportunidades! Se você é uma pessoa comunicativa, organizada e gosta de trabalhar em um ambiente dinâmico, esta vaga é para você.O(a) profissional será responsável por conduzir processos seletivos de ponta a ponta, garantindo uma experiência positiva para candidatos e gestores, além de contribuir para o fortalecimento da marca empregadora da empresa.Somos a Redepharma, uma empresa que acredita no potencial do nosso povo, com mais de 100 unidades estrategicamente posicionadas nos estados da Paraíba, Pernambuco e Rio Grande do Norte, sendo assim, a maior rede de Farmácias que mais cresce no Nordeste. Vamos nos conhecer um pouco mais!https://www.redepharma.com.br/a-redepharma@redepharmaResponsabilidades e atribuiçõesConduzir processos de recrutamento e seleção de diferentes níveis (operacional, técnico e/ou estratégico);Elaborar e divulgar descrições de vagas nas plataformas de recrutamento (incluindo a Gupy);Realizar triagem de currículos, entrevistas e dinâmicas;Apoiar gestores na definição de perfis e estratégias de atração de talentos;Garantir uma comunicação clara e ágil com os candidatos durante todo o processo;Manter atualizados os indicadores de recrutamento e propor melhorias contínuas.Requisitos e qualificaçõesFormação completa ou em andamento em Psicologia, Recursos Humanos, Administração ou áreas correlatas;Experiência prévia com recrutamento e seleção (diferencial: uso da plataforma Gupy ou outras ATS);Conhecimento de técnicas de entrevista por competências;Boa comunicação verbal e escrita;Organização e capacidade de gerenciar múltiplos processos simultaneamente.Informações adicionaisSalário compatível com o mercado;Benefícios competitivos (Ticket alimentação, Planos de saúde e odontológico, Gympass, Aconselhamento Jurídico, Escuta Psicológica)",
+   "tags": [],
+   "external_id": "gupy:12900318",
+   "category": "estagio_rh",
+   "categories": [
+    "estagio_rh"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 74,
+   "reasons": [
+    "Estágio em Recursos Humanos (RH) (+12)",
+    "prioridade da categoria (+6)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: organizacao, comunicacao (+6)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "d65ffe87901ddb6a",
+   "age_days": 4
+  },
+  {
+   "source": "gupy",
+   "title": "Banco de Talentos - Inspetor de Qualidade - Mixing Center - Campina Grande - PB",
+   "company": "Alpargatas",
+   "url": "https://alpargatas.gupy.io/job/eyJqb2JJZCI6MTI4MzU5NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "location": "Campina Grande, Paraíba",
+   "city": "Campina Grande",
+   "state": "Paraíba",
+   "remote": false,
+   "workplace": "onsite",
+   "date_posted": "2026-11-16",
+   "description": "Você é daquelas pessoas que gosta de jogar junto, ficar por dentro das inovações, solucionar problemas e aprender fazendo?Na Alpargatas, com responsabilidade socioambiental e visão de futuro, levamos soluções únicas a uma escala global. Por isso, buscamos pessoas que encaram os desafios de uma forma simples, leve e direto ao ponto. Promovemos um ambiente de muita colaboração e que tenha como premissa o respeito entre todas as pessoas. Diversidade, Equidade e Inclusão aqui na Alpa é inegociável. Nós respeitamos e valorizamos as diferenças, por isso, independente de idade, identidade de gênero, raça, etnia, orientação sexual, origem nacional ou deficiência, convidamos você a fazer parte da nossa jornada.  Se você se identifica com nosso jeito de ser e tem garra pra fazer acontecer todos os dias junto com a gente, vem fazer parte do nosso time de QUALIDADE!Responsabilidades e atribuições\nRealizar inspeções de qualidade nas diversas áreas, visando promover a análise e correção de situações de não conformidade existente no processo;Registrar ocorrências nos turnos de trabalho, visando dar subsídios para o novo turno que se inicia;Realizar inspeções de qualidade nos diversos turnos de trabalho, através de amostragem, verificando as não conformidades encontradas no processo, por meio da utilizando de formulário, e auditoria de CD nos lotes que já foram acabados;Orientar os operadores que realizam o processo de montagem de sandálias nas diversas linhas, visando diminuir as não-conformidades nos produtos fabricados;Enviar para o controle de qualidade, os formulários das inspeções realizadas, visando à consolidação dos dados para análise e ações corretivas dos diversos grupos de trabalho;Zelar pelas condições de limpeza, organização e conservação, bem como no uso adequado e seguro dos equipamentos da sua área de trabalho;Zelar pela segurança, saúde e meio ambiente, utilizando-se dos equipamentos de proteção individual, seguindo normas e procedimentos adotados pela companhia;\n\nRequisitos e qualificaçõesEnsino Superior Completo ou Cursando (Química, Engenharia, Administração);No mínimo 12 meses de trabalho na Alpargatas para público interno ou 1 ano no cargo Atual;Conhecimento no Pacote Office (Excel, Power Point, Word)Excel Intermediário a avançado;Vivência mínima de 6 meses na função.Disponibilidade para trabalhar nos 3 turnosInformações adicionaisBenefíciosAqui na Alpa, nos preocupamos com a saúde e o bem-estar das nossas pessoas e, por isso, esperamos que você tenha tudo o que precisa para ter uma experiência incrível junto com a gente. Confira os nossos benefícios:Plano de SaúdePlano OdontológicoRestaurante na FábricaVale Transporte ou FretadoPrevidência PrivadaSeguro de Vida em GrupoPrograma de Participação nos Resultados Desconto em Produtos HavaianasWellhubBrinde de AniversárioAtendimento Psicológico e Nutricional via AplicativoPrograma Cegonha para Mães e Pais que estão \"grávidos\" com Kit para Bebê e Lanche Diário para as GestantesAuxílio FuneralBrinde de AniversárioCesta de NatalCartão Farmácia",
+   "tags": [],
+   "external_id": "gupy:12835952",
+   "category": "estagio_administrativo",
+   "categories": [
+    "estagio_administrativo"
+   ],
+   "seniority": "unknown",
+   "matched_city": "Campina Grande",
+   "score": 62,
+   "reasons": [
+    "Estágio Administrativo (+12)",
+    "prioridade da categoria (+8)",
+    "Campina Grande (+20)",
+    "skills: excel, pacote office, word, organizacao (+12)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [
+    "excel"
+   ],
+   "id": "3986ed1f097f0e11",
+   "age_days": 4
+  },
+  {
+   "source": "indeed",
+   "title": "OPERADOR DE CAIXA - TODA OBRA",
+   "company": "AG Consultoria",
+   "url": "https://br.indeed.com/viewjob?jk=9c119eda0d36dcb5",
+   "location": "Campina Grande, PB, Brazil",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-19",
+   "description": "**OPORTUNIDADE - CAMPINA GRANDE PB**\n\n**EMPRESA:** Toda Obra\n\n**VAGA:** Operador de caixa\n\n**HORÁRIO:** 7:30h às 18:30h - 44h semanais\n\n**SALÁRIO:** Salário base + 7% + Vale alimentação\n\n**PRINCIPAIS RESPONSABILIDADES:** Garantir a excelência na finalização das compras com precisão e segurança, proporcionar um atendimento acolhedor e atuar preventivamente na identificação de erros e oportunidades de vendas complementares de forma ética.\n\n* **Operação e controle de caixa:** Realizar abertura, operação, conferência (incluindo fundo de troco) e fechamento; processar pagamentos (dinheiro, Pix, cartões); emitir documentos fiscais; e realizar sangrias apenas com autorização.\n* **Conferência de produtos e prevenção de erros:** Conferir códigos, descrições, quantidades, valores e unidades de comercialização; verificar aplicação de descontos; e evitar duplicidades ou omissões.\n* **Segurança financeira e prevenção de perdas:** Cumprir protocolos de segurança; identificar indícios de fraudes ou cédulas suspeitas; não liberar vendas com pagamentos pendentes; e preservar o sigilo de senhas e acessos individuais.\n* **Organização e disciplina:** Manter o espaço de trabalho limpo; organizar dinheiro e comprovantes; e manter a concentração e pontualidade, especialmente em períodos de grande fluxo.\n* **Atendimento e experiência do cliente:** Recepcionar clientes com simpatia; manter postura profissional e inteligência emocional diante de situações difíceis; e esclarecer dúvidas de pagamento.\n* **Vendas complementares e fidelização:** Conhecer promoções da loja; recomendar produtos complementares de maneira persuasiva e não invasiva; e encaminhar dúvidas técnicas aos vendedores para aumentar o ticket médio.\n* **Comunicação e trabalho em equipe:** Manter comunicação clara com vendedores, estoque, financeiro e liderança; informar divergências; e contribuir para um ambiente colaborativo.\n* **Proteção de dados:** Preservar informações pessoais e financeiras dos clientes, evitando a exposição indevida de documentos e cadastros.\n\n**COMPETÊNCIAS TÉCNICAS:**\n\n* **Formação:** Ensino médio completo (preferencialmente) e facilidade para aprender novos sistemas. Cursos de operador de caixa, vendas ou rotinas financeiras são diferenciais.\n* **Experiência:** Desejável experiência com atendimento ao público ou operação de caixa no varejo (experiência em home centers ou lojas de materiais de construção é um diferencial).\n* **Sistemas e Ferramentas:** Operação de sistemas de ponto de venda (PDV), sistemas de gestão comercial e noções básicas de informática.\n* **Rotinas Financeiras e Operacionais:** Matemática básica aplicada a trocos e pagamentos, conciliação de caixa, emissão de documentos fiscais, conferência de produtos e noções de prevenção de perdas/fraudes.\n* **Vendas e Compliance:** Técnicas de atendimento e vendas consultivas, além de conhecimentos básicos de proteção de dados pessoais.\n\n**COMPETÊNCIAS COMPORTAMENTAIS:**\n\n* **Ética e Postura:** Honestidade, integridade, discrição, confidencialidade e apresentação pessoal cuidadosa.\n* **Foco e Execução:** Atenção rigorosa aos detalhes, concentração, precisão, agilidade com responsabilidade e organização.\n* **Relacionamento:** Simpatia, cordialidade, empatia, escuta ativa e comunicação acolhedora.\n* **Inteligência Emocional:** Autocontrole, paciência, tolerância à pressão e capacidade de solucionar problemas.\n* **Dinamismo:** Proatividade, iniciativa, adaptabilidade e facilidade de aprendizagem.\n* **Comprometimento:** Pontualidade, assiduidade, trabalho em equipe e respeito a normas, processos e hierarquias de autorização.",
+   "tags": [],
+   "external_id": null,
+   "category": "estagio_administrativo",
+   "categories": [
+    "estagio_administrativo"
+   ],
+   "seniority": "unknown",
+   "matched_city": "Campina Grande",
+   "score": 59,
+   "reasons": [
+    "Estágio Administrativo (+12)",
+    "prioridade da categoria (+8)",
+    "Campina Grande (+20)",
+    "skills: atendimento, organizacao, comunicacao (+9)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [],
+   "id": "c98274f1b83ef4a0",
+   "age_days": 1
+  },
+  {
+   "source": "gupy",
+   "title": "Banco de Talentos - Supervisor de Centro de Distribuição - Mixing Center - Campina Grande - PB",
+   "company": "Alpargatas",
+   "url": "https://alpargatas.gupy.io/job/eyJqb2JJZCI6MTIyNjI1MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "location": "Campina Grande, Paraíba",
+   "city": "Campina Grande",
+   "state": "Paraíba",
+   "remote": false,
+   "workplace": "onsite",
+   "date_posted": "2026-11-16",
+   "description": "Você é daquelas pessoas que gosta de jogar junto, ficar por dentro das inovações, solucionar problemas e aprender fazendo?Na Alpargatas, com responsabilidade socioambiental e visão de futuro, levamos soluções únicas a uma escala global. Por isso, buscamos pessoas que encaram os desafios de uma forma simples, leve e direto ao ponto. Promovemos um ambiente de muita colaboração e que tenha como premissa o respeito entre todas as pessoas. Diversidade, Equidade e Inclusão aqui na Alpa é inegociável. Nós respeitamos e valorizamos as diferenças, por isso, independente de idade, identidade de gênero, raça, etnia, orientação sexual, origem nacional ou deficiência, convidamos você a fazer parte da nossa jornada.  Se você se identifica com nosso jeito de ser e tem garra pra fazer acontecer todos os dias junto com a gente, vem fazer parte do nosso time de Operação de CD!Responsabilidades e atribuições1. Gestão OperacionalGarantir o cumprimento do plano diário de Inbound, Outbound, Preparação, Conferência, Expedição e Transferências.Acompanhar produtividade, capacidade operacional e utilização dos recursos.Garantir o cumprimento das metas de volume, prazo e nível de serviço.Atuar rapidamente sobre desvios e gargalos operacionais.2. Gestão de PessoasLiderar e desenvolver líderes, encarregados e operadores.Realizar gestão de desempenho, feedbacks e desenvolvimento da equipe.Promover disciplina operacional, engajamento e cultura de alta performance.Dimensionar mão de obra conforme demanda e capacidade.3. SSMA — Segurança, Saúde e Meio AmbienteGarantir o cumprimento dos procedimentos e padrões de segurança.Atuar preventivamente na identificação e eliminação de riscos.Acompanhar OCS, incidentes, quase acidentes e auditorias.Fortalecer a cultura de segurança como prioridade operacional.4. Gestão de Indicadores — KPIs Acompanhar e atuar sobre indicadores como:PPH / ProdutividadeAbsenteísmoFaturamentoOTIF / nível de serviçoQualidadeTempo operacionalInventárioAcuracidadeCapacidade x DemandaPerformance por turno5. Qualidade e Excelência OperacionalGarantir execução conforme procedimentos e padrões.Identificar causas de desvios utilizando ferramentas como PDCA, 5 Porquês e Árvore de Causas.Liderar planos de ação e projetos de melhoria contínua.Buscar redução de perdas, retrabalho e desperdícios.6. Gestão de RecursosGarantir disponibilidade e utilização adequada de equipamentos, sistemas e infraestrutura.Controlar horas extras, produtividade e custos operacionais.Requisitos e qualificaçõesEnsino superior completo em Logística, Administração, Engenharia de Produção ou áreas correlatas.Pós-graduação/MBA em Gestão de Operações, Supply Chain ou Gestão de Pessoas será um diferencial.Experiência em operações logísticas e gestão de Centro de Distribuição.Vivência em Inbound, Outbound, armazenagem, expedição, inventário e distribuição.Experiência comprovada em gestão de equipes e liderança operacional.Vivência com gestão por indicadores e metas.Gestão de KPIs operacionais e produtividade.Excel intermediário/avançado e desejável conhecimento em Power BI.Sistemas de gestão/WMS e desejável conhecimento em SAP.Ferramentas de melhoria contínua: PDCA, 5 Porquês, Ishikawa, 5W2H e A3.Informações adicionaisBenefíciosAqui na Alpa, nos preocupamos com a saúde e o bem-estar das nossas pessoas e, por isso, esperamos que você tenha tudo o que precisa para ter uma experiência incrível junto com a gente. Confira os nossos benefícios:Plano de SaúdePlano OdontológicoVale Transporte ou FretadoSeguro de Vida em GrupoAuxílio FuneralRestaurante na FábricaPrevidência PrivadaPrograma de Participação nos Resultados Desconto em Produtos HavaianasWellhubAtendimento Psicológico e Nutricional via AplicativoPrograma Cegonha para Mães e Pais que estão \"grávidos\" com Kit para Bebê e Lanche Diário para as GestantesBrinde de AniversárioCesta de NatalCartão FarmáciaDay Off de Aniversário",
+   "tags": [],
+   "external_id": "gupy:12262529",
+   "category": "estagio_dados",
+   "categories": [
+    "estagio_dados"
+   ],
+   "seniority": "senior",
+   "matched_city": "Campina Grande",
+   "score": 25,
+   "reasons": [
+    "Estágio em Dados e BI (+12)",
+    "prioridade da categoria (+12)",
+    "sênior/liderança (-30)",
+    "Campina Grande (+20)",
+    "skills: excel, power bi (+6)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [
+    "powerbi",
+    "excel",
+    "sap",
+    "kpi"
+   ],
+   "id": "7a332a499fa25d98",
+   "age_days": 4
+  },
+  {
+   "source": "gupy",
+   "title": "Coordenador de Atendimento",
+   "company": "Necxt",
+   "url": "https://necxt.gupy.io/job/eyJqb2JJZCI6MTI5MjA4MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=",
+   "location": "Campina Grande, Paraíba",
+   "city": "Campina Grande",
+   "state": "Paraíba",
+   "remote": false,
+   "workplace": "onsite",
+   "date_posted": "2026-11-19",
+   "description": "Já pensou em trabalhar transformando experiências?A Necxt, empresa do Grupo Stefanini, é especializada em Customer Experience e Atendimento ao Cliente. Somos um time que investe em um completo ecossistema de inovação para atender as principais verticais de negócios e auxiliar os clientes no processo de relacionamento com consumidores, ofertando as melhores experiências e garantindo jornadas personalizadas de ponta a ponta.(Presencial)Responsabilidades e atribuiçõesCoordenar performance operacional do atendimento e da equipe de supervisores; Elaborar relatórios, acompanhar desenvolvimento da operação, feedbacks, índices de desempenho, avaliações e campanhas motivacionais; Acompanhar entrega dos KPI´s contratuais e de gestão, elaborar planos de ações para os indicadores que estão fora da meta; Realizar apresentações para os clientes e participar das reuniões relacionadas as suas células; Promover um ambiente de trabalho positivo e resolutivo para todos os funcionários principalmente para os agentes; Trabalhar no engajamento e no espírito de equipe.Requisitos e qualificaçõesEnsino superior completo ou em andamento(Administração, Gestão de Pessoas, Processos Gerenciais ou áreas correlatas)Experiência comprovada em operações de call center/atendimento (mínimo de 3 a 5 anos)Vivência anterior em cargos de liderança (Supervisor, Coordenador ou equivalente)Conhecimento em indicadores operacionais (TMA, NPS, TME, etc...);Experiência com gestão de equipes de médio/grande porteConhecimento em ferramentas de CRM e sistemas de atendimentoDomínio do pacote Office (com foco em Excel intermediário/avançado)Informações adicionaisO que te oferecemos:🍛 Vale Alimentação ou Vale Refeição;👨🏼‍🎓 Desconto em cursos, universidades e instituições de idiomas; 📚 Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado; 🗣 Mentoring;🏫 Auxílio Creche; 💉 Clube de vantagens para consultas e exames;🏥 Assistência Médica;🦷Assistência Odontológica; 💰 Clube de vantagens e descontos nos melhores estabelecimentos;👂🏾Atendimento psicológico online ao colaborador;🛫 Clube de viagens;🐶 Convênio para Pet;e muito mais...",
+   "tags": [],
+   "external_id": "gupy:12920804",
+   "category": "estagio_geral_escritorio",
+   "categories": [
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "senior",
+   "matched_city": "Campina Grande",
+   "score": 19,
+   "reasons": [
+    "Estágio Geral em Escritório (+12)",
+    "prioridade da categoria (+3)",
+    "sênior/liderança (-30)",
+    "Campina Grande (+20)",
+    "skills: excel, pacote office, atendimento (+9)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": true,
+   "aliases": [],
+   "skills": [
+    "excel",
+    "crm",
+    "kpi"
+   ],
+   "id": "440444e26db3a27a",
+   "age_days": 1
+  },
+  {
+   "source": "indeed",
+   "title": "Estagiário Comercial",
+   "company": "PARVI",
+   "url": "https://br.indeed.com/viewjob?jk=3c4aad20bf1a6d87",
+   "location": "Campina Grande, PB, Brazil",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-18",
+   "description": "**Responsabilidades:**  \nAuxiliar na prospecção de novos clientes;\n  \n  \nParticipar de reuniões de equipe e treinamentos comerciais\n  \n  \nApoiar na elaboração de propostas comerciais e apresentações\n  \n  \nRealizar follow-up com cliente potencial\n  \n  \nContribuir para o desenvolvimento de estratégia de vendas\n  \n  \nAtendimento ao cliente por multi canais, telefone e canais digitais.\n  \n  \n**Requisitos:**  \nCursando técnico ou bacharelado em Administração, Gestão Comercial, Processos Gerenciais, Gestão de Recursos Humanos, Gestão Financeira, Ciências Contábeis, Logística, Marketing ou áreas correlatas;\n  \n  \nConhecimento básico em técnicas de vendas e negociação\n  \n  \nProatividade e interesse na área comercial\n  \n  \nHabilidade de comunicação e negociação;\n  \n  \n**Escolaridade Mínima:** Ensino Superior",
+   "tags": [
+    "estagio"
+   ],
+   "external_id": null,
+   "category": "estagio_comercial_atendimento",
+   "categories": [
+    "estagio_comercial_atendimento",
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 94,
+   "reasons": [
+    "Estágio Comercial e Atendimento (+30)",
+    "prioridade da categoria (+5)",
+    "também: Estágio Geral em Escritório (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: atendimento, comunicacao (+6)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": false,
+   "aliases": [
+    "estagiario comercial|grupo parvi"
+   ],
+   "skills": [],
+   "id": "adbc9b480bb42bc4",
+   "age_days": 2
+  },
+  {
+   "source": "indeed",
+   "title": "Jovem Aprendiz | Campina Grande-PB",
+   "company": "Vagas Grupo Digna",
+   "url": "https://br.indeed.com/viewjob?jk=bf2996a97e7a6042",
+   "location": "Campina Grande, PB, Brazil",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-17",
+   "description": "Se você tem entre **18 e 22 anos**, a vaga de **Jovem Aprendiz** aqui é a sua porta de entrada para aprender de verdade, ganhar experiência prática e construir uma carreira.\n\nA gente não busca quem já sabe tudo, busca quem tem **vontade de aprender, garra para crescer** e sede de evoluir com a gente!\n\nTem vontade de evoluir e aprender coisas novas?\n\n**Seja nosso próximo Jovem Aprendiz!**\n\n  \n  \n  \n  \n**Responsabilidades e atribuições**\n\n**Como será sua rotina de trabalho?**\n\n* Apoiar nas rotinas administrativas da empresa;\n* Prestar suporte às áreas internas, conforme necessidade;\n* Contribuir para a organização do ambiente de trabalho.\n\n **Requisitos e qualificações**\n\n**O que esperamos de vocês?**\n\n* Possuir entre 18 e 22 anos;\n* Residir em Campina Grande - PB;\n* Possuir ensino médio completo;\n* Possuir facilidade de comunicação e atendimento ao cliente;\n* Possuir agilidade e senso de urgência.\n\n  \n**Informações adicionais**\n\n**Jornada:**\n\n* 30 horas semanais, de segunda à sexta-feira.\n\n**O que você encontra ao fazer parte do Grupo Digna:**\n\n* Bolsa auxílio;\n* Programa de benefícios Digna — plano, parcerias exclusivas, telemedicina, Leveduca e seguro de vida, tudo pensado para cuidar de você e da sua família.\n* Wellhub (Gympass) — acesso a academias, estúdios e apps de bem-estar, para manter o corpo em movimento.\n* Plataforma de Saúde Mental — apoio profissional para cuidar da sua mente com o mesmo cuidado que você dedica ao trabalho.\n\n**Além disso, no Digna você tem acesso a:**\n\n* Folga de aniversário — celebramos a sua vida com um dia todinho seu para descansar e aproveitar como quiser.\n* Universidade Corporativa — capacitação contínua para acelerar o seu desenvolvimento e impulsionar a sua carreira.\n* Incentivo acadêmico — apoio financeiro para você investir nos seus estudos e continuar evoluindo profissionalmente.\n* Programas de saúde, proteção e bem-estar — cuidados integrais para a sua mente, corpo e segurança, garantindo a sua qualidade de vida.\n\n**Somos movidos pelo propósito de** **cuidar de pessoas e celebrar a vida****, e é isso que nos une como time. Cada colaborador do Grupo Digna carrega em si a força do acolhimento, da empatia e da dedicação em fazer a diferença todos os dias.**",
+   "tags": [],
+   "external_id": "gupy:12899813",
+   "category": "estagio_geral_escritorio",
+   "categories": [
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 92,
+   "reasons": [
+    "Estágio Geral em Escritório (+30)",
+    "prioridade da categoria (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: atendimento, organizacao, comunicacao (+9)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": false,
+   "aliases": [],
+   "skills": [],
+   "id": "f29d57f6bb94e1b5",
+   "age_days": 3
+  },
+  {
+   "source": "indeed",
+   "title": "Estágio em Comunicação Social, Jornalismo ou Arte e Mídia - MCTI /PB",
+   "company": "Recruta Easy",
+   "url": "https://br.indeed.com/viewjob?jk=07a94790f47b4bc1",
+   "location": "Campina Grande, PB, Brazil",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-14",
+   "description": "**Descrição e Responsabilidades:**  \n**Horário:** 30 horas semanais  \n**Nível:** Estágio  \n**Regime de contratação:** Estágio\n\nEstudante com boa capacidade de redação, criatividade, iniciativa e interesse em comunicação institucional e divulgação científica, com conhecimentos e habilidades em:\n\n* Produção e revisão de textos para sites institucionais e redes sociais;\n* Fotografia com câmera profissional e smartphone;\n* Gravação e edição de vídeos por meio de aplicativos para celular;\n* Diagramação de jornais, revistas e publicações institucionais;\n* Produção de conteúdo e cobertura jornalística, fotográfica e audiovisual de eventos.\n\n**Diferenciais:**\n\n* Ter cursado disciplinas relacionadas a Projeto Gráfico em Jornalismo, Laboratório de Produção Gráfica e Digital, Jornalismo Digital, Fotojornalismo ou áreas similares, com aprovação e nota superior a 7,0;\n* Conhecimentos ou experiência em cerimonial e protocolo de eventos institucionais;\n* Familiaridade com ferramentas de edição gráfica e audiovisual.\n\n**Competências desejáveis:** Boa comunicação, domínio da língua portuguesa, organização, proatividade, criatividade, responsabilidade e capacidade de trabalhar em equipe e cumprir prazos\n\n **Requisitos:**\n\n**Objetivo do estágio:**\n\nProporcionar experiência prática em comunicação institucional e divulgação científica, envolvendo produção jornalística, conteúdo para mídias digitais, fotografia, audiovisual, diagramação e cobertura de eventos, contribuindo para a divulgação das atividades de pesquisa e das ações desenvolvidas pelo INSA/MCTI.\"\n\nRequisitos\n\nFormação: Ensino Superior Cursando\n\nCurso: Comunicação Social, Jornalismo ou Arte e Mídia\n\n **Benefícios:**  \nNenhum benefício informado",
+   "tags": [
+    "estagio"
+   ],
+   "external_id": null,
+   "category": "estagio_geral_escritorio",
+   "categories": [
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 89,
+   "reasons": [
+    "Estágio Geral em Escritório (+30)",
+    "prioridade da categoria (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: organizacao, comunicacao (+6)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": false,
+   "aliases": [],
+   "skills": [],
+   "id": "4871f021640e3504",
+   "age_days": 6
+  },
+  {
+   "source": "linkedin",
+   "title": "Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC",
+   "company": "AeC",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4490110249",
+   "location": "Campina Grande, PB",
+   "city": "Campina Grande",
+   "state": "PB",
+   "remote": false,
+   "workplace": "unknown",
+   "date_posted": "2026-11-16",
+   "description": "Nível de experiência (LinkedIn): Não aplicável. DESCRIÇÃO Trabalhe na maior empresa de telemarketing brasileira! Na AeC, você pode construir sua carreira na área de atendimento ao cliente, mesmo sem experiência e com possibilidade Home Office (trabalho remoto) após 90 dias, conforme os critérios da empresa. Sobre a oportunidade Estamos com vagas abertas para Atendente de Call Center, em regime CLT, com treinamento desde o primeiro dia, com oportunidades em turnos de manhã, tarde, noite ou madrugada e escalas 6x1 ou 5x2, com diversos benefícios, sendo também uma opção para quem busca o primeiro emprego! Requisitos Ter 18 anos ou mais; Ensino Médio completo; Residir na cidade da vaga. O que você vai fazer Atender clientes por e-mail, chat online, WhatsApp, voz e outros canais, oferecendo soluções, tirando dúvidas e registrando solicitações; Documentar os atendimentos nos sistemas da empresa, seguindo roteiros, políticas e processos internos. Benefícios TotalPass - acesso a academias e aplicativos parceiros; Onhappy - descontos em viagens e hotéis; Auxílio-creche; Universidade AeC - oportunidades de aprendizado e desenvolvimento; Plano de carreira a partir do 3º mês - possibilidade de participar de processos para promoções e oportunidades internas. Sendo uma das empresas que mais promove no Brasil! E muito mais! Diferenciais (não obrigatórios) Não é necessária experiência anterior! Se você já trabalhou como atendente, operador de telemarketing ou possui experiência com atendimento ao cliente, atendimento ativo ou receptivo, SAC, vendas ou atuação como vendedor, cobrança, recepção ou atendimento por telefone, chat e outros canais digitais, isso pode ser considerado um diferencial. Cresça com a AeC! Com mais de 30 anos de história e diversas unidades pelo país, somos reconhecidos entre as melhores empresas para trabalhar, unindo tecnologiAeCalor humano para transformar a experiência de clientes e colaboradores. Aqui na AeC, oportunidade vira carreira. Em 2026, já são mais de 14.800 pessoas contratadas e, em média, mais de 380 colaboradores promovidos por mês. Candidate-se agora e venha fazer parte da AeC! Número de vagas: 100 Local de trabalho: Campina Grande, PB Regime de contratação de tipo: Efetivo – CLT Jornada: Parcial tardes Área e especialização profissional: Telemarketing - Telemarketing / Call Center Ativo Nível hierárquico: Operacional REQUISITOS Escolaridade Mínima: Ensino Médio (2º Grau) VALORIZADO Tempo de experiência: Sem experiência HABILIDADES Informática Atendimento ao cliente Serviço ao cliente Comunicação BENEFÍCIOS Plano de saúde",
+   "tags": [
+    "nivel:Não aplicável"
+   ],
+   "external_id": null,
+   "category": "estagio_geral_escritorio",
+   "categories": [
+    "estagio_geral_escritorio"
+   ],
+   "seniority": "junior",
+   "matched_city": "Campina Grande",
+   "score": 89,
+   "reasons": [
+    "Estágio Geral em Escritório (+30)",
+    "prioridade da categoria (+3)",
+    "júnior/estágio (+25)",
+    "Campina Grande (+20)",
+    "skills: atendimento, comunicacao (+6)",
+    "publicada há ≤7 dias (+5)"
+   ],
+   "fit": null,
+   "fit_note": "",
+   "is_new": false,
+   "aliases": [],
+   "skills": [],
+   "id": "310f0f33271c497a",
+   "age_days": 4
+  }
+ ],
+ "total": 18,
+ "new_count": 14,
+ "categorias": {
+  "estagio_ti_dev": {
+   "nome": "Estágio em TI e Desenvolvimento",
+   "prioridade": 1
+  },
+  "estagio_dados": {
+   "nome": "Estágio em Dados e BI",
+   "prioridade": 2
+  },
+  "estagio_suporte_ti": {
+   "nome": "Estágio em Suporte e TI",
+   "prioridade": 3
+  },
+  "estagio_administrativo": {
+   "nome": "Estágio Administrativo",
+   "prioridade": 4
+  },
+  "estagio_financeiro": {
+   "nome": "Estágio Financeiro e Faturamento",
+   "prioridade": 5
+  },
+  "estagio_rh": {
+   "nome": "Estágio em Recursos Humanos (RH)",
+   "prioridade": 6
+  },
+  "estagio_comercial_atendimento": {
+   "nome": "Estágio Comercial e Atendimento",
+   "prioridade": 7
+  },
+  "estagio_marketing": {
+   "nome": "Estágio em Marketing e Comunicação",
+   "prioridade": 8
+  },
+  "estagio_geral_escritorio": {
+   "nome": "Estágio Geral em Escritório",
+   "prioridade": 9
+  }
+ },
+ "cidades": [
+  "Campina Grande"
+ ],
+ "cidades_resumo": "Campina Grande",
+ "remoto": "nao",
+ "areas": [
+  "Estágio em TI e Desenvolvimento",
+  "Estágio em Dados e BI",
+  "Estágio em Suporte e TI",
+  "Estágio Administrativo",
+  "Estágio Financeiro e Faturamento",
+  "Estágio em Recursos Humanos (RH)",
+  "Estágio Comercial e Atendimento",
+  "Estágio em Marketing e Comunicação",
+  "Estágio Geral em Escritório"
+ ],
+ "by_category": {
+  "estagio_ti_dev": 0,
+  "estagio_dados": 1,
+  "estagio_suporte_ti": 1,
+  "estagio_administrativo": 6,
+  "estagio_financeiro": 0,
+  "estagio_rh": 1,
+  "estagio_comercial_atendimento": 1,
+  "estagio_marketing": 0,
+  "estagio_geral_escritorio": 8
+ },
+ "by_city": {
+  "Campina Grande": 18,
+  "Remoto": 0
+ },
+ "source_counts": {
+  "gupy": 98,
+  "indeed": 114,
+  "linkedin": 137
+ },
+ "errors": {},
+ "ai_count": 0,
+ "mercado": {
+  "ranking": [
+   {
+    "chave": "excel",
+    "nome": "Excel",
+    "grupo": "Dados e BI",
+    "n": 4,
+    "pct": 22.2,
+    "n_regional": 4,
+    "n_remoto": 0
+   },
+   {
+    "chave": "kpi",
+    "nome": "KPIs",
+    "grupo": "Corporativo",
+    "n": 2,
+    "pct": 11.1,
+    "n_regional": 2,
+    "n_remoto": 0
+   },
+   {
+    "chave": "crm",
+    "nome": "CRM",
+    "grupo": "Corporativo",
+    "n": 1,
+    "pct": 5.6,
+    "n_regional": 1,
+    "n_remoto": 0
+   },
+   {
+    "chave": "powerbi",
+    "nome": "Power BI",
+    "grupo": "Dados e BI",
+    "n": 1,
+    "pct": 5.6,
+    "n_regional": 1,
+    "n_remoto": 0
+   },
+   {
+    "chave": "sap",
+    "nome": "SAP",
+    "grupo": "Corporativo",
+    "n": 1,
+    "pct": 5.6,
+    "n_regional": 1,
+    "n_remoto": 0
+   }
+  ],
+  "catalogo": {
+   "python": {
+    "nome": "Python",
+    "grupo": "Linguagem"
+   },
+   "sql": {
+    "nome": "SQL",
+    "grupo": "Linguagem"
+   },
+   "javascript": {
+    "nome": "JavaScript",
+    "grupo": "Linguagem"
+   },
+   "typescript": {
+    "nome": "TypeScript",
+    "grupo": "Linguagem"
+   },
+   "java": {
+    "nome": "Java",
+    "grupo": "Linguagem"
+   },
+   "csharp": {
+    "nome": "C#/.NET",
+    "grupo": "Linguagem"
+   },
+   "php": {
+    "nome": "PHP",
+    "grupo": "Linguagem"
+   },
+   "golang": {
+    "nome": "Go",
+    "grupo": "Linguagem"
+   },
+   "kotlin": {
+    "nome": "Kotlin",
+    "grupo": "Linguagem"
+   },
+   "r_lang": {
+    "nome": "R",
+    "grupo": "Linguagem"
+   },
+   "vba": {
+    "nome": "VBA",
+    "grupo": "Linguagem"
+   },
+   "react": {
+    "nome": "React",
+    "grupo": "Front-end"
+   },
+   "react_native": {
+    "nome": "React Native",
+    "grupo": "Front-end"
+   },
+   "angular": {
+    "nome": "Angular",
+    "grupo": "Front-end"
+   },
+   "vue": {
+    "nome": "Vue.js",
+    "grupo": "Front-end"
+   },
+   "nextjs": {
+    "nome": "Next.js",
+    "grupo": "Front-end"
+   },
+   "htmlcss": {
+    "nome": "HTML/CSS",
+    "grupo": "Front-end"
+   },
+   "tailwind": {
+    "nome": "Tailwind CSS",
+    "grupo": "Front-end"
+   },
+   "flutter": {
+    "nome": "Flutter",
+    "grupo": "Front-end"
+   },
+   "figma": {
+    "nome": "Figma",
+    "grupo": "Front-end"
+   },
+   "nodejs": {
+    "nome": "Node.js",
+    "grupo": "Back-end"
+   },
+   "nestjs": {
+    "nome": "NestJS",
+    "grupo": "Back-end"
+   },
+   "express": {
+    "nome": "Express",
+    "grupo": "Back-end"
+   },
+   "spring": {
+    "nome": "Spring Boot",
+    "grupo": "Back-end"
+   },
+   "django": {
+    "nome": "Django",
+    "grupo": "Back-end"
+   },
+   "flask": {
+    "nome": "Flask",
+    "grupo": "Back-end"
+   },
+   "fastapi": {
+    "nome": "FastAPI",
+    "grupo": "Back-end"
+   },
+   "laravel": {
+    "nome": "Laravel",
+    "grupo": "Back-end"
+   },
+   "rest": {
+    "nome": "APIs REST",
+    "grupo": "Back-end"
+   },
+   "graphql": {
+    "nome": "GraphQL",
+    "grupo": "Back-end"
+   },
+   "microsservicos": {
+    "nome": "Microsserviços",
+    "grupo": "Back-end"
+   },
+   "prisma": {
+    "nome": "Prisma",
+    "grupo": "Back-end"
+   },
+   "typeorm": {
+    "nome": "TypeORM",
+    "grupo": "Back-end"
+   },
+   "hibernate": {
+    "nome": "Hibernate/JPA",
+    "grupo": "Back-end"
+   },
+   "sqlalchemy": {
+    "nome": "SQLAlchemy",
+    "grupo": "Back-end"
+   },
+   "postgresql": {
+    "nome": "PostgreSQL",
+    "grupo": "Banco de dados"
+   },
+   "mysql": {
+    "nome": "MySQL",
+    "grupo": "Banco de dados"
+   },
+   "sqlserver": {
+    "nome": "SQL Server",
+    "grupo": "Banco de dados"
+   },
+   "oracle_db": {
+    "nome": "Oracle Database",
+    "grupo": "Banco de dados"
+   },
+   "mongodb": {
+    "nome": "MongoDB",
+    "grupo": "Banco de dados"
+   },
+   "redis": {
+    "nome": "Redis",
+    "grupo": "Banco de dados"
+   },
+   "nosql": {
+    "nome": "NoSQL",
+    "grupo": "Banco de dados"
+   },
+   "snowflake": {
+    "nome": "Snowflake",
+    "grupo": "Banco de dados"
+   },
+   "bigquery": {
+    "nome": "BigQuery",
+    "grupo": "Banco de dados"
+   },
+   "powerbi": {
+    "nome": "Power BI",
+    "grupo": "Dados e BI"
+   },
+   "dax": {
+    "nome": "DAX",
+    "grupo": "Dados e BI"
+   },
+   "power_query": {
+    "nome": "Power Query",
+    "grupo": "Dados e BI"
+   },
+   "excel": {
+    "nome": "Excel",
+    "grupo": "Dados e BI"
+   },
+   "tableau": {
+    "nome": "Tableau",
+    "grupo": "Dados e BI"
+   },
+   "looker": {
+    "nome": "Looker",
+    "grupo": "Dados e BI"
+   },
+   "qlik": {
+    "nome": "Qlik",
+    "grupo": "Dados e BI"
+   },
+   "pandas": {
+    "nome": "Pandas",
+    "grupo": "Dados e BI"
+   },
+   "numpy": {
+    "nome": "NumPy",
+    "grupo": "Dados e BI"
+   },
+   "etl": {
+    "nome": "ETL/ELT",
+    "grupo": "Dados e BI"
+   },
+   "pipelines": {
+    "nome": "Pipelines de dados",
+    "grupo": "Dados e BI"
+   },
+   "modelagem": {
+    "nome": "Modelagem de dados",
+    "grupo": "Dados e BI"
+   },
+   "data_warehouse": {
+    "nome": "Data Warehouse",
+    "grupo": "Dados e BI"
+   },
+   "data_lake": {
+    "nome": "Data Lake",
+    "grupo": "Dados e BI"
+   },
+   "spark": {
+    "nome": "Spark",
+    "grupo": "Dados e BI"
+   },
+   "databricks": {
+    "nome": "Databricks",
+    "grupo": "Dados e BI"
+   },
+   "airflow": {
+    "nome": "Airflow",
+    "grupo": "Dados e BI"
+   },
+   "dbt": {
+    "nome": "dbt",
+    "grupo": "Dados e BI"
+   },
+   "kafka": {
+    "nome": "Kafka",
+    "grupo": "Dados e BI"
+   },
+   "data_factory": {
+    "nome": "Azure Data Factory",
+    "grupo": "Dados e BI"
+   },
+   "fabric": {
+    "nome": "Microsoft Fabric",
+    "grupo": "Dados e BI"
+   },
+   "estatistica": {
+    "nome": "Estatística",
+    "grupo": "Dados e BI"
+   },
+   "governanca": {
+    "nome": "Governança de dados",
+    "grupo": "Dados e BI"
+   },
+   "ia_generativa": {
+    "nome": "IA Generativa",
+    "grupo": "IA"
+   },
+   "llm": {
+    "nome": "LLMs",
+    "grupo": "IA"
+   },
+   "openai": {
+    "nome": "OpenAI/GPT",
+    "grupo": "IA"
+   },
+   "claude": {
+    "nome": "Claude (Anthropic)",
+    "grupo": "IA"
+   },
+   "gemini": {
+    "nome": "Gemini",
+    "grupo": "IA"
+   },
+   "huggingface": {
+    "nome": "Hugging Face",
+    "grupo": "IA"
+   },
+   "rag": {
+    "nome": "RAG",
+    "grupo": "IA"
+   },
+   "embeddings": {
+    "nome": "Embeddings",
+    "grupo": "IA"
+   },
+   "banco_vetorial": {
+    "nome": "Banco vetorial",
+    "grupo": "IA"
+   },
+   "pgvector": {
+    "nome": "pgvector",
+    "grupo": "IA"
+   },
+   "pinecone": {
+    "nome": "Pinecone",
+    "grupo": "IA"
+   },
+   "weaviate": {
+    "nome": "Weaviate",
+    "grupo": "IA"
+   },
+   "chroma": {
+    "nome": "Chroma",
+    "grupo": "IA"
+   },
+   "faiss": {
+    "nome": "FAISS",
+    "grupo": "IA"
+   },
+   "qdrant": {
+    "nome": "Qdrant",
+    "grupo": "IA"
+   },
+   "langchain": {
+    "nome": "LangChain",
+    "grupo": "IA"
+   },
+   "langgraph": {
+    "nome": "LangGraph",
+    "grupo": "IA"
+   },
+   "llamaindex": {
+    "nome": "LlamaIndex",
+    "grupo": "IA"
+   },
+   "crewai": {
+    "nome": "CrewAI",
+    "grupo": "IA"
+   },
+   "agentes": {
+    "nome": "Agentes de IA",
+    "grupo": "IA"
+   },
+   "mcp": {
+    "nome": "MCP",
+    "grupo": "IA"
+   },
+   "function_calling": {
+    "nome": "Function calling",
+    "grupo": "IA"
+   },
+   "prompt": {
+    "nome": "Prompt engineering",
+    "grupo": "IA"
+   },
+   "fine_tuning": {
+    "nome": "Fine-tuning",
+    "grupo": "IA"
+   },
+   "chatbot": {
+    "nome": "Chatbots",
+    "grupo": "IA"
+   },
+   "ml": {
+    "nome": "Machine Learning",
+    "grupo": "IA"
+   },
+   "sklearn": {
+    "nome": "scikit-learn",
+    "grupo": "IA"
+   },
+   "xgboost": {
+    "nome": "XGBoost",
+    "grupo": "IA"
+   },
+   "deep_learning": {
+    "nome": "Deep Learning",
+    "grupo": "IA"
+   },
+   "pytorch": {
+    "nome": "PyTorch",
+    "grupo": "IA"
+   },
+   "tensorflow": {
+    "nome": "TensorFlow",
+    "grupo": "IA"
+   },
+   "nlp": {
+    "nome": "NLP",
+    "grupo": "IA"
+   },
+   "visao": {
+    "nome": "Visão computacional",
+    "grupo": "IA"
+   },
+   "opencv": {
+    "nome": "OpenCV",
+    "grupo": "IA"
+   },
+   "mlops": {
+    "nome": "MLOps",
+    "grupo": "IA"
+   },
+   "mlflow": {
+    "nome": "MLflow",
+    "grupo": "IA"
+   },
+   "claude_code": {
+    "nome": "Claude Code",
+    "grupo": "IA no desenvolvimento"
+   },
+   "cursor": {
+    "nome": "Cursor",
+    "grupo": "IA no desenvolvimento"
+   },
+   "copilot": {
+    "nome": "GitHub Copilot",
+    "grupo": "IA no desenvolvimento"
+   },
+   "n8n": {
+    "nome": "n8n",
+    "grupo": "Automação"
+   },
+   "make": {
+    "nome": "Make",
+    "grupo": "Automação"
+   },
+   "zapier": {
+    "nome": "Zapier",
+    "grupo": "Automação"
+   },
+   "power_automate": {
+    "nome": "Power Automate",
+    "grupo": "Automação"
+   },
+   "power_apps": {
+    "nome": "Power Apps",
+    "grupo": "Automação"
+   },
+   "rpa": {
+    "nome": "RPA",
+    "grupo": "Automação"
+   },
+   "uipath": {
+    "nome": "UiPath",
+    "grupo": "Automação"
+   },
+   "aws": {
+    "nome": "AWS",
+    "grupo": "Nuvem e DevOps"
+   },
+   "azure": {
+    "nome": "Azure",
+    "grupo": "Nuvem e DevOps"
+   },
+   "gcp": {
+    "nome": "Google Cloud",
+    "grupo": "Nuvem e DevOps"
+   },
+   "docker": {
+    "nome": "Docker",
+    "grupo": "Nuvem e DevOps"
+   },
+   "kubernetes": {
+    "nome": "Kubernetes",
+    "grupo": "Nuvem e DevOps"
+   },
+   "cicd": {
+    "nome": "CI/CD",
+    "grupo": "Nuvem e DevOps"
+   },
+   "github_actions": {
+    "nome": "GitHub Actions",
+    "grupo": "Nuvem e DevOps"
+   },
+   "gitlab_ci": {
+    "nome": "GitLab CI",
+    "grupo": "Nuvem e DevOps"
+   },
+   "jenkins": {
+    "nome": "Jenkins",
+    "grupo": "Nuvem e DevOps"
+   },
+   "azure_devops": {
+    "nome": "Azure DevOps",
+    "grupo": "Nuvem e DevOps"
+   },
+   "terraform": {
+    "nome": "Terraform",
+    "grupo": "Nuvem e DevOps"
+   },
+   "linux": {
+    "nome": "Linux",
+    "grupo": "Nuvem e DevOps"
+   },
+   "bash": {
+    "nome": "Bash/Shell",
+    "grupo": "Nuvem e DevOps"
+   },
+   "git": {
+    "nome": "Git",
+    "grupo": "Engenharia"
+   },
+   "testes": {
+    "nome": "Testes automatizados",
+    "grupo": "Engenharia"
+   },
+   "jest": {
+    "nome": "Jest",
+    "grupo": "Engenharia"
+   },
+   "pytest": {
+    "nome": "pytest",
+    "grupo": "Engenharia"
+   },
+   "cypress": {
+    "nome": "Cypress",
+    "grupo": "Engenharia"
+   },
+   "selenium": {
+    "nome": "Selenium",
+    "grupo": "Engenharia"
+   },
+   "code_review": {
+    "nome": "Code review",
+    "grupo": "Engenharia"
+   },
+   "solid": {
+    "nome": "SOLID",
+    "grupo": "Engenharia"
+   },
+   "clean_code": {
+    "nome": "Clean Code",
+    "grupo": "Engenharia"
+   },
+   "clean_arch": {
+    "nome": "Clean Architecture",
+    "grupo": "Engenharia"
+   },
+   "design_patterns": {
+    "nome": "Design Patterns",
+    "grupo": "Engenharia"
+   },
+   "ddd": {
+    "nome": "DDD",
+    "grupo": "Engenharia"
+   },
+   "scrum": {
+    "nome": "Scrum",
+    "grupo": "Engenharia"
+   },
+   "kanban": {
+    "nome": "Kanban",
+    "grupo": "Engenharia"
+   },
+   "agil": {
+    "nome": "Metodologias ágeis",
+    "grupo": "Engenharia"
+   },
+   "jira": {
+    "nome": "Jira",
+    "grupo": "Engenharia"
+   },
+   "seguranca": {
+    "nome": "Segurança da informação",
+    "grupo": "Engenharia"
+   },
+   "sap": {
+    "nome": "SAP",
+    "grupo": "Corporativo"
+   },
+   "abap": {
+    "nome": "ABAP",
+    "grupo": "Corporativo"
+   },
+   "totvs": {
+    "nome": "TOTVS/Protheus",
+    "grupo": "Corporativo"
+   },
+   "erp": {
+    "nome": "ERP",
+    "grupo": "Corporativo"
+   },
+   "crm": {
+    "nome": "CRM",
+    "grupo": "Corporativo"
+   },
+   "salesforce": {
+    "nome": "Salesforce",
+    "grupo": "Corporativo"
+   },
+   "kpi": {
+    "nome": "KPIs",
+    "grupo": "Corporativo"
+   },
+   "processos": {
+    "nome": "Mapeamento de processos",
+    "grupo": "Corporativo"
+   },
+   "lean": {
+    "nome": "Lean/Six Sigma",
+    "grupo": "Corporativo"
+   },
+   "lgpd": {
+    "nome": "LGPD",
+    "grupo": "Corporativo"
+   },
+   "itil": {
+    "nome": "ITIL",
+    "grupo": "Corporativo"
+   },
+   "ingles": {
+    "nome": "Inglês",
+    "grupo": "Idioma"
+   },
+   "espanhol": {
+    "nome": "Espanhol",
+    "grupo": "Idioma"
+   }
+  },
+  "amostra": {
+   "com_descricao": 18,
+   "total": 18,
+   "regional": 18,
+   "remoto": 0
+  }
+ },
+ "top_n": 25,
+ "report_url": "https://felipecjbob.github.io/radar-de-vagas-campina-grande/",
+ "state_stats": {
+  "known_jobs": 94,
+  "first_run": false
+ },
+ "descricao_completa": true
+}

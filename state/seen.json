@@ -1,5 +1,5 @@
 {
- "last_run": "2026-11-20T16:00:11",
+ "last_run": "2026-11-25T17:25:03",
  "jobs": {
   "b12b2fe16f624db4": {
    "key": "estagio em rh|petdetodoscampinagrande",
@@ -1219,7 +1219,7 @@
    "source": "linkedin",
    "score": 100,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-25"
   },
   "2175a8b91624cdcf": {
    "key": "jovem aprendiz - ti|unifacisa centro universitario",
@@ -1281,7 +1281,7 @@
    "source": "linkedin",
    "score": 94,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-25"
   },
   "a194cc689606ed1a": {
    "key": "auxiliar de coordenacao pedagogica - iso colegio e cursos campina grande|iso colegio e cursos",
@@ -1309,7 +1309,7 @@
    "source": "indeed",
    "score": 86,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-25"
   },
   "2971f542454f4fdf": {
    "key": "jovem aprendiz|banco do brasil",
@@ -1321,7 +1321,7 @@
    "source": "indeed",
    "score": 83,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-25"
   },
   "d65ffe87901ddb6a": {
    "key": "assistente de rh (recrutador) campina grande pb|redepharma",
@@ -1361,7 +1361,7 @@
    "source": "indeed",
    "score": 59,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-25"
   },
   "7a332a499fa25d98": {
    "key": "banco de talentos - supervisor de centro de distribuicao - mixing center - campina grande - pb|alpargatas",
@@ -1389,7 +1389,7 @@
    "source": "gupy",
    "score": 19,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-20"
+   "last_seen": "2026-11-25"
   },
   "adbc9b480bb42bc4": {
    "key": "estagiario comercial|parvi",
@@ -1430,6 +1430,94 @@
    "score": 89,
    "first_seen": "2026-11-20",
    "last_seen": "2026-11-20"
+  },
+  "5f38ce2d0867e214": {
+   "key": "assistente administrativo|unifacisa centro universitario",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo",
+   "company": "Unifacisa Centro Universitário",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-at-unifacisa-centro-universit%C3%A1rio-4493006383",
+   "source": "linkedin",
+   "score": 100,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  "ba05787be116245b": {
+   "key": "assistente financeiro - alto branco (grupo alerta)|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "ASSISTENTE FINANCEIRO - Alto Branco (Grupo Alerta)",
+   "company": "Jobbol",
+   "url": "https://br.indeed.com/viewjob?jk=4e58858b7e957c27",
+   "source": "indeed",
+   "score": 98,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  "e5c5d3204a671927": {
+   "key": "assistente administrativo|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Assistente Administrativo",
+   "company": "Jobbol",
+   "url": "https://br.linkedin.com/jobs/view/assistente-administrativo-at-jobbol-4493985130",
+   "source": "linkedin",
+   "score": 97,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  "26dc445076539113": {
+   "key": "assistente de ti campina grande interno|redepharma",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:10956432"
+   ],
+   "title": "ASSISTENTE DE TI CAMPINA GRANDE INTERNO",
+   "company": "redepharma",
+   "url": "https://br.indeed.com/viewjob?jk=ca408588d244f5c5",
+   "source": "indeed",
+   "score": 90,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  "ebc7e6b1cdef9782": {
+   "key": "analista de compras jr. - hunicg|unimed",
+   "aliases": [],
+   "ext_keys": [
+    "ext:gupy:12746984"
+   ],
+   "title": "Analista de Compras Jr. - HUniCG",
+   "company": "Unimed",
+   "url": "https://br.indeed.com/viewjob?jk=a7a54f5fc06ced73",
+   "source": "indeed",
+   "score": 89,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  "a96f6e4d3a86c916": {
+   "key": "recepcionista - prata (clinica botoesthetic)|jobbol",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "RECEPCIONISTA - Prata (Clínica BotoEsthetic)",
+   "company": "Jobbol",
+   "url": "https://br.indeed.com/viewjob?jk=779e71e9a9d9fc86",
+   "source": "indeed",
+   "score": 50,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
+  },
+  "2b6dce443789f52f": {
+   "key": "atendente de telemarketing - vagas meio periodo e vagas noturnas - campina grande/pb - aec|aec",
+   "aliases": [],
+   "ext_keys": [],
+   "title": "Atendente de Telemarketing -  Vagas Meio Período e vagas noturnas - Campina Grande/PB - AeC",
+   "company": "AeC",
+   "url": "https://br.linkedin.com/jobs/view/atendente-de-telemarketing-%C2%A0-vagas-meio-per%C3%ADodo-e-vagas-noturnas-campina-grande-pb-aec-at-aec-4493683274",
+   "source": "linkedin",
+   "score": 89,
+   "first_seen": "2026-11-25",
+   "last_seen": "2026-11-25"
   }
  }
 }
